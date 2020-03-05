@@ -1,0 +1,1163 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ArrayOfEventVM xmlns="http://schemas.datacontract.org/2004/07/ThunderDomeAPI.Models" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <EventVM>
+    <Attempts>
+      <AttemptVM>
+        <Attempt_ID>4</Attempt_ID>
+        <Date_Created>2019-10-01T17:54:15</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>13</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-01T18:04:15</TimeOnTarget>
+        <User_ID>1</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>ELMO</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>1</User_ID>
+        </userVM>
+      </AttemptVM>
+      <AttemptVM>
+        <Attempt_ID>16</Attempt_ID>
+        <Date_Created>2019-10-01T17:54:15</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>13</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-01T18:04:15</TimeOnTarget>
+        <User_ID>2</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>SEANTAY</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>2</User_ID>
+        </userVM>
+      </AttemptVM>
+      <AttemptVM>
+        <Attempt_ID>22</Attempt_ID>
+        <Date_Created>2019-10-09T18:43:07.197</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>13</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-09T19:06:00</TimeOnTarget>
+        <User_ID>3</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>THUNDIE01</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>3</User_ID>
+        </userVM>
+      </AttemptVM>
+    </Attempts>
+    <Event_ID>13</Event_ID>
+    <Event_Name>KraftBowlEvent</Event_Name>
+    <IPPS_Weight>2</IPPS_Weight>
+    <IPTS_Weight>1</IPTS_Weight>
+    <Scenario>
+      <Events i:nil="true"/>
+      <Parsed_Routes i:nil="true"/>
+      <Scenario_ID>13</Scenario_ID>
+      <Scenario_Name>KraftBowl</Scenario_Name>
+    </Scenario>
+    <Scenario_ID>13</Scenario_ID>
+    <TGPS_Weight>1</TGPS_Weight>
+    <TGTS_Weight>10</TGTS_Weight>
+    <TPPS_Weight>1</TPPS_Weight>
+    <TPTS_Weight>1</TPTS_Weight>
+  </EventVM>
+  <EventVM>
+    <Attempts>
+      <AttemptVM>
+        <Attempt_ID>12</Attempt_ID>
+        <Date_Created>2019-10-02T14:09:10.533</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>14</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-02T14:09:10.533</TimeOnTarget>
+        <User_ID>1</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>ELMO</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>1</User_ID>
+        </userVM>
+      </AttemptVM>
+    </Attempts>
+    <Event_ID>14</Event_ID>
+    <Event_Name>Nathan's Event</Event_Name>
+    <IPPS_Weight>2</IPPS_Weight>
+    <IPTS_Weight>1</IPTS_Weight>
+    <Scenario>
+      <Events i:nil="true"/>
+      <Parsed_Routes i:nil="true"/>
+      <Scenario_ID>14</Scenario_ID>
+      <Scenario_Name>Nathan</Scenario_Name>
+    </Scenario>
+    <Scenario_ID>14</Scenario_ID>
+    <TGPS_Weight>1</TGPS_Weight>
+    <TGTS_Weight>10</TGTS_Weight>
+    <TPPS_Weight>1</TPPS_Weight>
+    <TPTS_Weight>1</TPTS_Weight>
+  </EventVM>
+  <EventVM>
+    <Attempts/>
+    <Event_ID>15</Event_ID>
+    <Event_Name>Qwerty</Event_Name>
+    <IPPS_Weight>2</IPPS_Weight>
+    <IPTS_Weight>1</IPTS_Weight>
+    <Scenario>
+      <Events i:nil="true"/>
+      <Parsed_Routes i:nil="true"/>
+      <Scenario_ID>15</Scenario_ID>
+      <Scenario_Name>_Thunderd1</Scenario_Name>
+    </Scenario>
+    <Scenario_ID>15</Scenario_ID>
+    <TGPS_Weight>1</TGPS_Weight>
+    <TGTS_Weight>10</TGTS_Weight>
+    <TPPS_Weight>1</TPPS_Weight>
+    <TPTS_Weight>1</TPTS_Weight>
+  </EventVM>
+  <EventVM>
+    <Attempts>
+      <AttemptVM>
+        <Attempt_ID>17</Attempt_ID>
+        <Date_Created>2019-10-08T15:55:02.157</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>16</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-08T16:10:00</TimeOnTarget>
+        <User_ID>2</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>SEANTAY</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>2</User_ID>
+        </userVM>
+      </AttemptVM>
+    </Attempts>
+    <Event_ID>16</Event_ID>
+    <Event_Name>Doodle</Event_Name>
+    <IPPS_Weight>2</IPPS_Weight>
+    <IPTS_Weight>1</IPTS_Weight>
+    <Scenario>
+      <Events i:nil="true"/>
+      <Parsed_Routes i:nil="true"/>
+      <Scenario_ID>16</Scenario_ID>
+      <Scenario_Name>Fixed</Scenario_Name>
+    </Scenario>
+    <Scenario_ID>16</Scenario_ID>
+    <TGPS_Weight>1</TGPS_Weight>
+    <TGTS_Weight>10</TGTS_Weight>
+    <TPPS_Weight>1</TPPS_Weight>
+    <TPTS_Weight>1</TPTS_Weight>
+  </EventVM>
+  <EventVM>
+    <Attempts>
+      <AttemptVM>
+        <Attempt_ID>18</Attempt_ID>
+        <Date_Created>2019-10-08T17:20:04.6</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>17</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-08T17:32:00</TimeOnTarget>
+        <User_ID>1</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>ELMO</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>1</User_ID>
+        </userVM>
+      </AttemptVM>
+    </Attempts>
+    <Event_ID>17</Event_ID>
+    <Event_Name>ChowderBowl</Event_Name>
+    <IPPS_Weight>2</IPPS_Weight>
+    <IPTS_Weight>1</IPTS_Weight>
+    <Scenario>
+      <Events i:nil="true"/>
+      <Parsed_Routes i:nil="true"/>
+      <Scenario_ID>17</Scenario_ID>
+      <Scenario_Name>TEST</Scenario_Name>
+    </Scenario>
+    <Scenario_ID>17</Scenario_ID>
+    <TGPS_Weight>1</TGPS_Weight>
+    <TGTS_Weight>10</TGTS_Weight>
+    <TPPS_Weight>1</TPPS_Weight>
+    <TPTS_Weight>1</TPTS_Weight>
+  </EventVM>
+  <EventVM>
+    <Attempts>
+      <AttemptVM>
+        <Attempt_ID>19</Attempt_ID>
+        <Date_Created>2019-10-08T19:34:39.23</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>18</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-08T00:00:00</TimeOnTarget>
+        <User_ID>1</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>ELMO</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>1</User_ID>
+        </userVM>
+      </AttemptVM>
+    </Attempts>
+    <Event_ID>18</Event_ID>
+    <Event_Name>ChunkyBowl</Event_Name>
+    <IPPS_Weight>2</IPPS_Weight>
+    <IPTS_Weight>1</IPTS_Weight>
+    <Scenario>
+      <Events i:nil="true"/>
+      <Parsed_Routes i:nil="true"/>
+      <Scenario_ID>18</Scenario_ID>
+      <Scenario_Name>Fixed_For_Real</Scenario_Name>
+    </Scenario>
+    <Scenario_ID>18</Scenario_ID>
+    <TGPS_Weight>1</TGPS_Weight>
+    <TGTS_Weight>10</TGTS_Weight>
+    <TPPS_Weight>1</TPPS_Weight>
+    <TPTS_Weight>1</TPTS_Weight>
+  </EventVM>
+  <EventVM>
+    <Attempts>
+      <AttemptVM>
+        <Attempt_ID>20</Attempt_ID>
+        <Date_Created>2019-10-08T20:16:49.057</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>19</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-08T00:00:00</TimeOnTarget>
+        <User_ID>1</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>ELMO</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>1</User_ID>
+        </userVM>
+      </AttemptVM>
+    </Attempts>
+    <Event_ID>19</Event_ID>
+    <Event_Name>For Real This Time I Swear</Event_Name>
+    <IPPS_Weight>2</IPPS_Weight>
+    <IPTS_Weight>1</IPTS_Weight>
+    <Scenario>
+      <Events i:nil="true"/>
+      <Parsed_Routes i:nil="true"/>
+      <Scenario_ID>19</Scenario_ID>
+      <Scenario_Name>_Thunderd1_NEWEST</Scenario_Name>
+    </Scenario>
+    <Scenario_ID>19</Scenario_ID>
+    <TGPS_Weight>1</TGPS_Weight>
+    <TGTS_Weight>10</TGTS_Weight>
+    <TPPS_Weight>1</TPPS_Weight>
+    <TPTS_Weight>1</TPTS_Weight>
+  </EventVM>
+  <EventVM>
+    <Attempts>
+      <AttemptVM>
+        <Attempt_ID>21</Attempt_ID>
+        <Date_Created>2019-10-09T14:51:39.42</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>20</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-09T00:00:00</TimeOnTarget>
+        <User_ID>1</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>ELMO</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>1</User_ID>
+        </userVM>
+      </AttemptVM>
+    </Attempts>
+    <Event_ID>20</Event_ID>
+    <Event_Name>test1</Event_Name>
+    <IPPS_Weight>2</IPPS_Weight>
+    <IPTS_Weight>1</IPTS_Weight>
+    <Scenario>
+      <Events i:nil="true"/>
+      <Parsed_Routes i:nil="true"/>
+      <Scenario_ID>20</Scenario_ID>
+      <Scenario_Name>ThunderDomeRoutes1</Scenario_Name>
+    </Scenario>
+    <Scenario_ID>20</Scenario_ID>
+    <TGPS_Weight>1</TGPS_Weight>
+    <TGTS_Weight>10</TGTS_Weight>
+    <TPPS_Weight>1</TPPS_Weight>
+    <TPTS_Weight>1</TPTS_Weight>
+  </EventVM>
+  <EventVM>
+    <Attempts/>
+    <Event_ID>21</Event_ID>
+    <Event_Name>DemoEvent</Event_Name>
+    <IPPS_Weight>2</IPPS_Weight>
+    <IPTS_Weight>1</IPTS_Weight>
+    <Scenario>
+      <Events i:nil="true"/>
+      <Parsed_Routes i:nil="true"/>
+      <Scenario_ID>21</Scenario_ID>
+      <Scenario_Name>DemoRoute</Scenario_Name>
+    </Scenario>
+    <Scenario_ID>21</Scenario_ID>
+    <TGPS_Weight>1</TGPS_Weight>
+    <TGTS_Weight>10</TGTS_Weight>
+    <TPPS_Weight>1</TPPS_Weight>
+    <TPTS_Weight>1</TPTS_Weight>
+  </EventVM>
+  <EventVM>
+    <Attempts>
+      <AttemptVM>
+        <Attempt_ID>23</Attempt_ID>
+        <Date_Created>2019-10-10T15:34:12.22</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>22</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-10T19:40:07</TimeOnTarget>
+        <User_ID>1</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>ELMO</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>1</User_ID>
+        </userVM>
+      </AttemptVM>
+      <AttemptVM>
+        <Attempt_ID>24</Attempt_ID>
+        <Date_Created>2019-10-10T17:09:36.41</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>22</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-10T07:07:17</TimeOnTarget>
+        <User_ID>2</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>SEANTAY</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>2</User_ID>
+        </userVM>
+      </AttemptVM>
+    </Attempts>
+    <Event_ID>22</Event_ID>
+    <Event_Name>DemoRoute</Event_Name>
+    <IPPS_Weight>2</IPPS_Weight>
+    <IPTS_Weight>1</IPTS_Weight>
+    <Scenario>
+      <Events i:nil="true"/>
+      <Parsed_Routes i:nil="true"/>
+      <Scenario_ID>22</Scenario_ID>
+      <Scenario_Name>DemoRoute</Scenario_Name>
+    </Scenario>
+    <Scenario_ID>22</Scenario_ID>
+    <TGPS_Weight>1</TGPS_Weight>
+    <TGTS_Weight>10</TGTS_Weight>
+    <TPPS_Weight>1</TPPS_Weight>
+    <TPTS_Weight>1</TPTS_Weight>
+  </EventVM>
+  <EventVM>
+    <Attempts>
+      <AttemptVM>
+        <Attempt_ID>25</Attempt_ID>
+        <Date_Created>2019-10-10T21:03:22.08</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>23</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-10T21:15:00</TimeOnTarget>
+        <User_ID>1</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>ELMO</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>1</User_ID>
+        </userVM>
+      </AttemptVM>
+    </Attempts>
+    <Event_ID>23</Event_ID>
+    <Event_Name>ParserTest</Event_Name>
+    <IPPS_Weight>2</IPPS_Weight>
+    <IPTS_Weight>1</IPTS_Weight>
+    <Scenario>
+      <Events i:nil="true"/>
+      <Parsed_Routes i:nil="true"/>
+      <Scenario_ID>23</Scenario_ID>
+      <Scenario_Name>ParserTest</Scenario_Name>
+    </Scenario>
+    <Scenario_ID>23</Scenario_ID>
+    <TGPS_Weight>1</TGPS_Weight>
+    <TGTS_Weight>10</TGTS_Weight>
+    <TPPS_Weight>1</TPPS_Weight>
+    <TPTS_Weight>1</TPTS_Weight>
+  </EventVM>
+  <EventVM>
+    <Attempts>
+      <AttemptVM>
+        <Attempt_ID>26</Attempt_ID>
+        <Date_Created>2019-10-15T17:29:35.853</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>24</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-15T17:37:00</TimeOnTarget>
+        <User_ID>1</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>ELMO</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>1</User_ID>
+        </userVM>
+      </AttemptVM>
+    </Attempts>
+    <Event_ID>24</Event_ID>
+    <Event_Name>ParserTest2</Event_Name>
+    <IPPS_Weight>2</IPPS_Weight>
+    <IPTS_Weight>1</IPTS_Weight>
+    <Scenario>
+      <Events i:nil="true"/>
+      <Parsed_Routes i:nil="true"/>
+      <Scenario_ID>24</Scenario_ID>
+      <Scenario_Name>ParserTest2</Scenario_Name>
+    </Scenario>
+    <Scenario_ID>24</Scenario_ID>
+    <TGPS_Weight>1</TGPS_Weight>
+    <TGTS_Weight>10</TGTS_Weight>
+    <TPPS_Weight>1</TPPS_Weight>
+    <TPTS_Weight>1</TPTS_Weight>
+  </EventVM>
+  <EventVM>
+    <Attempts>
+      <AttemptVM>
+        <Attempt_ID>27</Attempt_ID>
+        <Date_Created>2019-10-21T20:41:10.943</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>25</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-21T21:00:00</TimeOnTarget>
+        <User_ID>2</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>SEANTAY</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>2</User_ID>
+        </userVM>
+      </AttemptVM>
+    </Attempts>
+    <Event_ID>25</Event_ID>
+    <Event_Name>OffTest!</Event_Name>
+    <IPPS_Weight>2</IPPS_Weight>
+    <IPTS_Weight>1</IPTS_Weight>
+    <Scenario>
+      <Events i:nil="true"/>
+      <Parsed_Routes i:nil="true"/>
+      <Scenario_ID>28</Scenario_ID>
+      <Scenario_Name>OffTest</Scenario_Name>
+    </Scenario>
+    <Scenario_ID>28</Scenario_ID>
+    <TGPS_Weight>1</TGPS_Weight>
+    <TGTS_Weight>10</TGTS_Weight>
+    <TPPS_Weight>1</TPPS_Weight>
+    <TPTS_Weight>1</TPTS_Weight>
+  </EventVM>
+  <EventVM>
+    <Attempts>
+      <AttemptVM>
+        <Attempt_ID>28</Attempt_ID>
+        <Date_Created>2019-10-21T20:57:43.24</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>26</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-21T00:00:00</TimeOnTarget>
+        <User_ID>2</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>SEANTAY</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>2</User_ID>
+        </userVM>
+      </AttemptVM>
+    </Attempts>
+    <Event_ID>26</Event_ID>
+    <Event_Name>BS</Event_Name>
+    <IPPS_Weight>2</IPPS_Weight>
+    <IPTS_Weight>1</IPTS_Weight>
+    <Scenario>
+      <Events i:nil="true"/>
+      <Parsed_Routes i:nil="true"/>
+      <Scenario_ID>29</Scenario_ID>
+      <Scenario_Name>BS</Scenario_Name>
+    </Scenario>
+    <Scenario_ID>29</Scenario_ID>
+    <TGPS_Weight>1</TGPS_Weight>
+    <TGTS_Weight>10</TGTS_Weight>
+    <TPPS_Weight>1</TPPS_Weight>
+    <TPTS_Weight>1</TPTS_Weight>
+  </EventVM>
+  <EventVM>
+    <Attempts>
+      <AttemptVM>
+        <Attempt_ID>29</Attempt_ID>
+        <Date_Created>2019-10-21T21:22:46.957</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>27</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-21T00:00:00</TimeOnTarget>
+        <User_ID>2</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>SEANTAY</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>2</User_ID>
+        </userVM>
+      </AttemptVM>
+    </Attempts>
+    <Event_ID>27</Event_ID>
+    <Event_Name>SR290</Event_Name>
+    <IPPS_Weight>2</IPPS_Weight>
+    <IPTS_Weight>1</IPTS_Weight>
+    <Scenario>
+      <Events i:nil="true"/>
+      <Parsed_Routes i:nil="true"/>
+      <Scenario_ID>30</Scenario_ID>
+      <Scenario_Name>SR290</Scenario_Name>
+    </Scenario>
+    <Scenario_ID>30</Scenario_ID>
+    <TGPS_Weight>1</TGPS_Weight>
+    <TGTS_Weight>10</TGTS_Weight>
+    <TPPS_Weight>1</TPPS_Weight>
+    <TPTS_Weight>1</TPTS_Weight>
+  </EventVM>
+  <EventVM>
+    <Attempts>
+      <AttemptVM>
+        <Attempt_ID>30</Attempt_ID>
+        <Date_Created>2019-10-21T21:35:03.333</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>28</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-21T00:00:00</TimeOnTarget>
+        <User_ID>2</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>SEANTAY</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>2</User_ID>
+        </userVM>
+      </AttemptVM>
+    </Attempts>
+    <Event_ID>28</Event_ID>
+    <Event_Name>MoarBS</Event_Name>
+    <IPPS_Weight>2</IPPS_Weight>
+    <IPTS_Weight>1</IPTS_Weight>
+    <Scenario>
+      <Events i:nil="true"/>
+      <Parsed_Routes i:nil="true"/>
+      <Scenario_ID>31</Scenario_ID>
+      <Scenario_Name>MoarBS</Scenario_Name>
+    </Scenario>
+    <Scenario_ID>31</Scenario_ID>
+    <TGPS_Weight>1</TGPS_Weight>
+    <TGTS_Weight>10</TGTS_Weight>
+    <TPPS_Weight>1</TPPS_Weight>
+    <TPTS_Weight>1</TPTS_Weight>
+  </EventVM>
+  <EventVM>
+    <Attempts>
+      <AttemptVM>
+        <Attempt_ID>31</Attempt_ID>
+        <Date_Created>2019-10-21T21:36:22.08</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>29</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-21T00:00:00</TimeOnTarget>
+        <User_ID>2</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>SEANTAY</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>2</User_ID>
+        </userVM>
+      </AttemptVM>
+    </Attempts>
+    <Event_ID>29</Event_ID>
+    <Event_Name>SR290_1</Event_Name>
+    <IPPS_Weight>2</IPPS_Weight>
+    <IPTS_Weight>1</IPTS_Weight>
+    <Scenario>
+      <Events i:nil="true"/>
+      <Parsed_Routes i:nil="true"/>
+      <Scenario_ID>32</Scenario_ID>
+      <Scenario_Name>SR290_1</Scenario_Name>
+    </Scenario>
+    <Scenario_ID>32</Scenario_ID>
+    <TGPS_Weight>1</TGPS_Weight>
+    <TGTS_Weight>10</TGTS_Weight>
+    <TPPS_Weight>1</TPPS_Weight>
+    <TPTS_Weight>1</TPTS_Weight>
+  </EventVM>
+  <EventVM>
+    <Attempts>
+      <AttemptVM>
+        <Attempt_ID>32</Attempt_ID>
+        <Date_Created>2019-10-23T15:01:03.073</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>30</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-23T15:15:00</TimeOnTarget>
+        <User_ID>1</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>ELMO</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>1</User_ID>
+        </userVM>
+      </AttemptVM>
+      <AttemptVM>
+        <Attempt_ID>33</Attempt_ID>
+        <Date_Created>2019-10-23T15:02:17.857</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>30</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-23T15:17:00</TimeOnTarget>
+        <User_ID>1</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>ELMO</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>1</User_ID>
+        </userVM>
+      </AttemptVM>
+      <AttemptVM>
+        <Attempt_ID>34</Attempt_ID>
+        <Date_Created>2019-10-23T20:17:36.973</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>30</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-23T20:30:00</TimeOnTarget>
+        <User_ID>2</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>SEANTAY</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>2</User_ID>
+        </userVM>
+      </AttemptVM>
+      <AttemptVM>
+        <Attempt_ID>36</Attempt_ID>
+        <Date_Created>2019-10-24T17:25:29.753</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>30</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-24T00:00:00</TimeOnTarget>
+        <User_ID>1</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>ELMO</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>1</User_ID>
+        </userVM>
+      </AttemptVM>
+      <AttemptVM>
+        <Attempt_ID>37</Attempt_ID>
+        <Date_Created>2019-10-24T17:27:44.41</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>30</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-24T00:00:00</TimeOnTarget>
+        <User_ID>1</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>ELMO</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>1</User_ID>
+        </userVM>
+      </AttemptVM>
+      <AttemptVM>
+        <Attempt_ID>38</Attempt_ID>
+        <Date_Created>2019-10-24T17:32:20.38</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>30</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-24T00:00:00</TimeOnTarget>
+        <User_ID>1</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>ELMO</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>1</User_ID>
+        </userVM>
+      </AttemptVM>
+    </Attempts>
+    <Event_ID>30</Event_ID>
+    <Event_Name>TEST123</Event_Name>
+    <IPPS_Weight>2</IPPS_Weight>
+    <IPTS_Weight>1</IPTS_Weight>
+    <Scenario>
+      <Events i:nil="true"/>
+      <Parsed_Routes i:nil="true"/>
+      <Scenario_ID>33</Scenario_ID>
+      <Scenario_Name>TEST123</Scenario_Name>
+    </Scenario>
+    <Scenario_ID>33</Scenario_ID>
+    <TGPS_Weight>1</TGPS_Weight>
+    <TGTS_Weight>10</TGTS_Weight>
+    <TPPS_Weight>1</TPPS_Weight>
+    <TPTS_Weight>1</TPTS_Weight>
+  </EventVM>
+  <EventVM>
+    <Attempts>
+      <AttemptVM>
+        <Attempt_ID>35</Attempt_ID>
+        <Date_Created>2019-10-24T15:32:41.917</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>31</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-24T15:48:00</TimeOnTarget>
+        <User_ID>1</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>ELMO</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>1</User_ID>
+        </userVM>
+      </AttemptVM>
+    </Attempts>
+    <Event_ID>31</Event_ID>
+    <Event_Name>30PointTest</Event_Name>
+    <IPPS_Weight>2</IPPS_Weight>
+    <IPTS_Weight>1</IPTS_Weight>
+    <Scenario>
+      <Events i:nil="true"/>
+      <Parsed_Routes i:nil="true"/>
+      <Scenario_ID>34</Scenario_ID>
+      <Scenario_Name>30PointTest</Scenario_Name>
+    </Scenario>
+    <Scenario_ID>34</Scenario_ID>
+    <TGPS_Weight>1</TGPS_Weight>
+    <TGTS_Weight>10</TGTS_Weight>
+    <TPPS_Weight>1</TPPS_Weight>
+    <TPTS_Weight>1</TPTS_Weight>
+  </EventVM>
+  <EventVM>
+    <Attempts>
+      <AttemptVM>
+        <Attempt_ID>39</Attempt_ID>
+        <Date_Created>2019-10-24T20:15:26.057</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>32</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-24T00:00:00</TimeOnTarget>
+        <User_ID>1</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>ELMO</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>1</User_ID>
+        </userVM>
+      </AttemptVM>
+      <AttemptVM>
+        <Attempt_ID>40</Attempt_ID>
+        <Date_Created>2019-10-24T20:35:37.197</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>32</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-24T00:00:00</TimeOnTarget>
+        <User_ID>1</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>ELMO</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>1</User_ID>
+        </userVM>
+      </AttemptVM>
+      <AttemptVM>
+        <Attempt_ID>41</Attempt_ID>
+        <Date_Created>2019-10-24T20:48:23.98</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>32</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-24T21:08:00</TimeOnTarget>
+        <User_ID>2</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>SEANTAY</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>2</User_ID>
+        </userVM>
+      </AttemptVM>
+      <AttemptVM>
+        <Attempt_ID>42</Attempt_ID>
+        <Date_Created>2019-10-24T21:20:12.98</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>32</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-24T00:00:00</TimeOnTarget>
+        <User_ID>1</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>ELMO</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>1</User_ID>
+        </userVM>
+      </AttemptVM>
+      <AttemptVM>
+        <Attempt_ID>43</Attempt_ID>
+        <Date_Created>2019-10-24T21:34:10.993</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>32</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-24T00:00:00</TimeOnTarget>
+        <User_ID>1</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>ELMO</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>1</User_ID>
+        </userVM>
+      </AttemptVM>
+      <AttemptVM>
+        <Attempt_ID>44</Attempt_ID>
+        <Date_Created>2019-10-24T21:35:47.44</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>32</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-24T00:00:00</TimeOnTarget>
+        <User_ID>1</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>ELMO</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>1</User_ID>
+        </userVM>
+      </AttemptVM>
+      <AttemptVM>
+        <Attempt_ID>45</Attempt_ID>
+        <Date_Created>2019-10-24T21:38:09.67</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>32</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-24T00:00:00</TimeOnTarget>
+        <User_ID>1</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>ELMO</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>1</User_ID>
+        </userVM>
+      </AttemptVM>
+      <AttemptVM>
+        <Attempt_ID>46</Attempt_ID>
+        <Date_Created>2019-10-24T21:42:41.99</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>32</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-24T00:00:00</TimeOnTarget>
+        <User_ID>1</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>ELMO</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>1</User_ID>
+        </userVM>
+      </AttemptVM>
+      <AttemptVM>
+        <Attempt_ID>47</Attempt_ID>
+        <Date_Created>2019-10-24T21:43:41.68</Date_Created>
+        <Event i:nil="true"/>
+        <Event_ID>32</Event_ID>
+        <Maneuver_ID i:nil="true"/>
+        <Score_P3D i:nil="true"/>
+        <Score_Viper i:nil="true"/>
+        <TPScores i:nil="true"/>
+        <TimeOnTarget>2019-10-24T00:00:00</TimeOnTarget>
+        <User_ID>1</User_ID>
+        <Viper_Maneuvers i:nil="true"/>
+        <userVM>
+          <Attempts i:nil="true"/>
+          <Callsign>ELMO</Callsign>
+          <Password i:nil="true"/>
+          <Problems i:nil="true"/>
+          <Proficiencies i:nil="true"/>
+          <Role i:nil="true"/>
+          <Role_ID>1</Role_ID>
+          <User_ID>1</User_ID>
+        </userVM>
+      </AttemptVM>
+    </Attempts>
+    <Event_ID>32</Event_ID>
+    <Event_Name>MapTest2</Event_Name>
+    <IPPS_Weight>2</IPPS_Weight>
+    <IPTS_Weight>1</IPTS_Weight>
+    <Scenario>
+      <Events i:nil="true"/>
+      <Parsed_Routes i:nil="true"/>
+      <Scenario_ID>36</Scenario_ID>
+      <Scenario_Name>MapTest2</Scenario_Name>
+    </Scenario>
+    <Scenario_ID>36</Scenario_ID>
+    <TGPS_Weight>1</TGPS_Weight>
+    <TGTS_Weight>10</TGTS_Weight>
+    <TPPS_Weight>1</TPPS_Weight>
+    <TPTS_Weight>1</TPTS_Weight>
+  </EventVM>
+</ArrayOfEventVM>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ArrayOfUserScoreVM xmlns="http://schemas.datacontract.org/2004/07/ThunderDomeAPI.Models" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <UserScoreVM>
+    <Attempt i:nil="true"/>
+    <Callsign>ELMO</Callsign>
+    <Delta_TimeAtTOT>N/A</Delta_TimeAtTOT>
+    <EventID>31</EventID>
+    <EventName>30PointTest</EventName>
+    <Rank>1</Rank>
+    <Score>0</Score>
+    <UserID>1</UserID>
+  </UserScoreVM>
+</ArrayOfUserScoreVM>

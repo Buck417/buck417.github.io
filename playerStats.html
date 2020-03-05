@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Player Stats</title>
+    <!-- the reference here using ./static is for flask, when using another webservice just remove that portion of the path-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="./css/design.css">
+    <link href='https://fonts.googleapis.com/css?family=Gruppo' rel='stylesheet'>
+    <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Muli&display=swap" rel="stylesheet">
+    <script src="./js/jquery-3.4.1.min.js"></script>
+    <script src="./js/config.js"></script>
+    <script src="./js/playerStats.js" defer></script>
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+
+    <!--<script>
+        var audio = document.getElementById("#soundEffect");
+    $("playerTotalsBody tr td").on('hover',function(event) {
+        audio.play();
+        alert("Yes");
+    });
+
+        $("playerTotalsBody tr td").unbind("mouseleave");
+
+    </script>-->
+
+    <style>
+
+        body {
+            overflow-x: hidden;
+        }
+    </style>
+</head>
+
+
+
+<body class="tinted-image">
+    <video loop muted autoplay poster="img/videoframe.jpg" class="fullscreen-bg__video">
+        <source src="./images/cloudloop.mp4" type="video/mp4" class="cloudVideo">
+    </video>
+
+    <div class="scoreboard">
+
+        <x-sign style="margin-top:15px;height:1.4em">
+            <div id="playerHeader">
+                <button id="backButton" class="chevron" onclick="clickGoBackToScoreboard()"></button>
+                <label id="playerTitle">
+                </label>
+                <p class="smallTitle">stats</p>
+            </div>
+        </x-sign>
+        <div style="float:right;" onclick="clickGoBackHomePage()" class="clickHome">
+            <img src="./images/td_logo_small.png" class="smallLogo" title="Navigate to Home screen"/>
+        </div>
+
+        <!--<audio id="soundEffect" type="audio/mpeg" preload="auto">
+        <source src="./sounds/Blop.mp3" />
+    </audio>-->
+        <div>
+            <div id="noScoresBanner" class="noAttempts" style="display:none;">
+                <div>
+                    <img src="./images/danger_filled.png">
+                </div>
+                <label>No Attempts have been made</label>
+            </div>
+        </div>
+
+
+
+        <div>
+            <div id="buttonNavigation" style="display:none" class="navBar">
+                <button id="firstAttempt" style="visibility:hidden" class="chevron" onclick="clickFirst()">            </button>
+                <button id="prevAttempt" style="visibility:hidden" class="chevron" onclick="clickBack()">
+                </button>
+                <label id="attemptNum">Attempt </label>
+                <button id="nextAttempt" style="visibility:hidden" class="chevron" onclick="clickNext()">
+                </button>
+                <button id="lastAttempt" style="visibility:hidden" class="chevron" onclick="clickLast()">
+                </button>
+            </div>
+        </div>
+
+        <div class="playerTotals">
+            <table class="playerTotalsTable">
+                <thead>
+                    <tr>
+                        <th>POSITION SCORE</th>
+                        <th>TIME SCORE</th>
+                        <th>TOTAL SCORE</th>
+                    </tr>
+                </thead>
+                <tbody id="playerTotalsBody">
+                </tbody>
+            </table>
+
+        </div>
+        <div class="stickyHeader" style="margin-right:40px;">
+            <table id="tpTable" class="statsInfo">
+                <thead>
+                    <tr id="tableHeaders">
+                        <th>TP</th>
+                        <th>Type</th>
+                        <th>Position</th>
+                        <th>Timing</th>
+                        <th><div>&#916;Time </div><div> &#64;TP</div></th>
+                        <th>Actual Time</th>
+                        <th>Ideal Time</th>
+                    </tr>
+                </thead>
+                <tbody id="tpTableBody">
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!--class="scrollContent" class="tableHeader" class="scoreboardTable"-->
+</body>
+
+
+</html>

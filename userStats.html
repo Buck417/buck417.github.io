@@ -1,0 +1,119 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>User Stats</title>
+    <link rel="stylesheet" href="./css/userStats.css">
+    <link href="./css/spinner.css" type="text/css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans&display=swap" rel="stylesheet">
+    <script src="./js/jquery-3.4.1.min.js"></script>
+    <script src="./js/config.js"></script>
+    <script src="./js/plotly-basic-latest.min.js"></script>
+    <script src="./js/plotlyGraph.js"></script>
+    <script src="./js/userStats.js"></script>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+
+</head>
+<body class="tinted-image" style="align-content:stretch;">
+    <img src="./images/BG.jpg" class="fullscreen-bg__video" />
+
+    <div class="flex-container">
+        <div class="headerContainer">
+            <div class="backContainer" onclick="location.href='userLanding.html';" title="Back to Search">
+                <svg class="backChevron" version=" 1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                     viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+                <g>
+                <g>
+                <polygon points="128,48.907 0,176.907 30.187,207.093 128,109.28 225.813,207.093 256,176.907" />
+	        </g>
+            </g>
+            </svg>
+            </div>
+            <div id="userStatsTitle" class="titleContainer"><label id="userStatsLabel" class="userTitle">User Stats</label></div>
+        </div>
+       
+        <div class="flex-event-container">
+            <div class="legendContainer">
+                <div class="legend1"><div class="rectangle blue"></div><label>Average</label></div>
+                <div class="legend2"><div class="rectangle white"></div><label id="legendLabel">You</label></div>
+            </div>
+            <div id="userGraph">
+                <div id="graphArea">
+
+                    <div class="spinnerContainer">
+                        <div class="loader">Loading...</div>
+                    </div>
+                </div>
+            </div>
+            <div id="buttonNavigation" class="attemptContainer">
+                <div>
+                    <button id="firstAttempt" style="visibility:hidden" class="attemptButton" onclick="clickAttemptNavigation('first')">
+                        <svg class="firstChevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 207.09 256">
+                            <g id="Layer_2" data-name="Layer 2">
+                                <g id="Capa_1" data-name="Capa 1">
+                                    <polygon points="0 30.19 97.81 128 0 225.81 30.19 256 158.19 128 30.19 0 0 30.19" />
+                                    <rect x="163.3" width="43.79" height="256" />
+                                </g>
+                            </g>
+                        </svg>
+                    </button>
+                </div>
+                <div>
+                    <button id="prevAttempt" style="visibility:hidden" class="attemptButton" onclick="clickAttemptNavigation('previous')">
+                        <svg class="previousChevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 207.09 256">
+                            <g id="Layer_2" data-name="Layer 2">
+                                <g id="Capa_1" data-name="Capa 1">
+                                    <polygon points="0 30.19 97.81 128 0 225.81 30.19 256 158.19 128 30.19 0 0 30.19" />
+                                </g>
+                            </g>
+                        </svg>
+                    </button>
+                </div>
+                <div><label id="attemptScore" class="attemptScore"></label></div>
+                <div>
+                    <button id="nextAttempt" style="visibility:hidden" class="attemptButton" onclick="clickAttemptNavigation('next')">
+                        <svg class="nextChevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 207.09 256">
+                            <g id="Layer_2" data-name="Layer 2">
+                                <g id="Capa_1" data-name="Capa 1">
+                                    <polygon points="0 30.19 97.81 128 0 225.81 30.19 256 158.19 128 30.19 0 0 30.19" />
+                                </g>
+                            </g>
+                        </svg>
+                    </button>
+                </div>
+                <div>
+                    <button id="lastAttempt" style="visibility:hidden" class="attemptButton" onclick="clickAttemptNavigation('last')">
+                        <svg class="lastChevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 207.09 256">
+                            <g id="Layer_2" data-name="Layer 2">
+                                <g id="Capa_1" data-name="Capa 1">
+                                    <polygon points="0 30.19 97.81 128 0 225.81 30.19 256 158.19 128 30.19 0 0 30.19" />
+                                    <rect x="163.3" width="43.79" height="256" />
+                                </g>
+                            </g>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+            <div id="userData">
+                <div class="tableContainer">
+                    <table id="tableData">
+                    </table>
+                </div>
+            </div>
+
+            <div id="footer">
+                <a href="http://www.airforce.com" target="_self">
+                    <img src="./images/AF_Symbol_White.svg" style="height:200px" />
+                </a>
+                <label>We need high flyers like you to visit <a href="http://www.airforce.com" target="_self">AirForce.com</a>
+                </label>
+
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

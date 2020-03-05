@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>User Profile</title>
+    <link rel="stylesheet" type="text/css" href="./css/tileUserList.css" />
+    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans&display=swap" rel="stylesheet">
+    <script src="./js/jquery-3.4.1.min.js"></script>
+    <script src="./js/singleuserprofile.js"></script>
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+    <style>
+        body{
+            overflow-y:hidden;
+        }
+
+        .tinted-image {
+            height: 100%;
+        }
+    </style>
+
+</head>
+<body class="tinted-image">
+    <video loop muted autoplay poster="img/videoframe.jpg" class="fullscreen-bg__video">
+        <source src="./images/cloudloop.mp4" type="video/mp4" class="cloudVideo">
+    </video>
+
+    <div class="flex-container">
+        <div class="headerContainer">
+            <div class="backContainer" title="Back to User List" onclick="location.href='tileUserList.html';">
+                <svg class="backChevron" version=" 1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                     viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+                <g><g>
+                <polygon points="128,48.907 0,176.907 30.187,207.093 128,109.28 225.813,207.093 256,176.907" />
+
+
+
+	        </g></g>
+        </svg>
+            </div>
+            <div id="pageTitle">User<img class="bolt" src="/images/bolt.png" onclick="location.href='tileUserList.html';" alt="Navigate to User List" title="Navigate to User List" /> Profile</div>
+        </div>
+
+        <div class="profileContainer" id="userDataLoadTarget">
+            <!--<div class="userContainer"></div>
+            <div class="eventContainer"></div>-->
+
+        </div>
+    </div>
+
+
+    <!--<div id="userDataContainer">
+        <div id="userDataLoadTarget">
+        </div>
+    </div>-->
+</body>
+</html>

@@ -1,0 +1,349 @@
+﻿html,
+body {
+    height: 100%;
+    min-height: 100vh;
+    margin: 0;
+    /*font-family: 'Gruppo';*/
+    font-family: 'Nunito Sans';
+    /*background: #090000;*/
+    overflow-y: hidden;
+    color: #fff;
+}
+
+@font-face {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+@font-face {
+    font-family: 'Aldo';
+    src: url(../res/AldotheApache.ttf);
+}
+
+
+.tinted-image {
+   background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0,0,0,.6);
+}
+
+.fullscreen-bg {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    z-index: -1000;
+}
+
+.fullscreen-bg__video {
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1000;
+}
+
+.leaderboard-title {
+    font-family: 'Aldo' ;
+    font-size: 4.5em;
+    text-shadow: 5px 6px rgba(0,0,0,.80);
+    color: #fff;
+    font-weight:bold; 
+}
+
+
+.flex-container {
+    height: 100%;
+    min-height: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+    .flex-container > div {
+        text-align: center;
+        z-index: 600;
+        display: flex;
+        flex-direction: column;
+    }
+
+.flex-event-container {
+    flex: 4;
+    justify-content: center;
+    align-items: center;
+    flex-direction:row;
+}
+
+.flex-event-container > div{
+    display:flex; 
+    flex-direction:column; 
+    justify-content: center; 
+    align-items:center; 
+}
+
+.logoContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-content: center;
+    flex: 1;
+    padding: 35px;
+    padding-bottom: 45px;
+}
+
+#userGraph{
+    flex-basis:auto;
+    flex:3;
+    flex-direction:row ; 
+    width:100%;
+}
+
+#userData{
+    flex-basis:auto; 
+    flex:1;
+    width:100%;
+    justify-content:flex-start; 
+}
+
+.flex-slider-container {
+    flex: 1;
+    display: flex;
+    align-items: stretch;
+    align-content: center;
+    margin-top:40px;
+    margin-left:20px;
+}
+
+#graphArea {
+    height: 93%;
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    margin: 15px;
+}
+
+.svg-container {
+    height: 100% !important;
+}
+
+.leaderboard-container {
+    margin: 5px;
+}
+
+#leaderboard {
+    color: #fff;
+    font-size: 30px;
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0 10px;
+    line-height:75px;
+}
+    #leaderboard th {
+        font-size: .9em;
+        background-color: #424949;
+        text-transform: uppercase;
+    }
+
+.user-item{
+    background-color:rgba(0,0,0,.6); 
+}
+
+    .user-item.active {
+        background-color: #fff;
+        color: rgba(0, 48,143,1);
+        font-weight: bold; 
+        font-size:40px;
+    }
+
+
+.tableContainer{
+    width:100%;
+    height:100%;
+    display:flex;
+}
+
+#tableData {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0 6px;
+    margin: 15px;
+    height: 85%;
+    font-size: 30px;
+    text-align: left;
+}
+
+.headerTable {
+    background-color: rgba(255,255,255,.2);
+    padding-left: 15px;
+    padding-right: 5px;
+    /*border: 1px solid rgba(255,255,255,.4);*/
+    margin-bottom: 10px;
+    border-collapse: separate;
+    border-spacing: 50px 0;
+}
+    .headerTable tr:nth-child(odd) {
+       
+        font-size: 30px;
+    }
+    .headerTable tr:nth-child(even) {
+        text-align: center;
+        font-weight: bold;
+        font-size: 40px;
+    }
+    #tableData td {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+
+#tableData tr {
+    cursor: pointer;
+}
+
+
+.user-focus{
+    border: 1px solid red !important;
+}
+
+.updatemenu-item-text {
+    font-weight:bold;
+}
+
+.updatemenu-item-rect:hover {
+    fill: darkblue !important;
+}
+
+.plot-container{
+    position:absolute; 
+    z-index:500; 
+}
+
+.xtitle, .ytitle{
+    font-weight:bold !important;
+}
+
+.legend{
+    font-weight:bold;
+}
+
+/* Popup box BEGIN */
+.eventPopup{
+    background:rgba(0,0,0,.4);
+    cursor:pointer;
+    display:none;
+    height:100%;
+    position:fixed;
+    text-align:center;
+    top:0;
+    width:100%;
+    z-index:10000;
+}
+.eventPopup .helper{
+    display:inline-block;
+    height:100%;
+    vertical-align:middle;
+}
+    .eventPopup > div {
+        background-color: rgba(0,48,143,1);
+        box-shadow: 10px 10px 60px #555;
+        display: inline-block;
+        height: auto;
+        max-width: 551px;
+        min-height: 100px;
+        vertical-align: middle;
+        width: 60%;
+        position: relative;
+        border-radius: 8px;
+        padding: 3% 3%;
+        color: #fff;
+        font-size: 2em;
+    }
+.popupCloseButton {
+    background-color: #fff;
+    border: 3px solid #999;
+    border-radius: 50px;
+    cursor: pointer;
+    display: inline-block;
+    font-family: arial;
+    font-weight: bold;
+    position: absolute;
+    top: -20px;
+    right: -20px;
+    font-size: 25px;
+    line-height: 30px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+.popupCloseButton:hover {
+    background-color: #ccc;
+}
+.triggerEventPopup {
+    cursor: pointer;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bold;
+}
+.popupContainer{
+    display:flex; 
+    flex-direction:column; 
+}
+
+.popupContainer > div{
+    display:flex; 
+    padding:15px;
+}
+
+.popupContainer label{
+    font-weight:bold; 
+    margin-right:10px;
+}
+
+input, select {
+    font-size: 1em;
+    font-family: 'Nunito Sans';
+    width:100%;
+    padding:10px;
+    color:#000; 
+    background-color:rgba(255,255,255,.8);
+}
+
+.popupTitle{
+    font-size:1.3em; 
+    font-weight:bold;
+    justify-content:center; 
+}
+.popupTable{
+    width:90%;
+}
+
+    .popupTable td {
+        text-align: right;
+        padding-bottom: 15px;
+    }
+
+
+#popupEventDropdown > option {
+   
+    font-size: 30px;
+    text-transform: uppercase;
+    padding-left: 0px;
+}
+
+.popClose {
+    fill: #00308f; 
+}
+/* Popup box BEGIN */
+
+.noDataDiv {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    font-size: 3em;
+    font-weight: bold;
+}
+

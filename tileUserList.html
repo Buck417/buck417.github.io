@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>User List</title>
+    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="./css/tileUserList.css">
+    <script src="./js/jquery-3.4.1.min.js"></script>
+    <script src="./js/utilities.js"></script>
+    <script src="./js/tileUserList.js"></script>
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+</head>
+<body class="tinted-image">
+    <video loop muted autoplay poster="img/videoframe.jpg" class="fullscreen-bg__video">
+        <source src="./images/cloudloop.mp4" type="video/mp4" class="cloudVideo">
+    </video>
+
+
+    <div id="upArrow" class="arrowContainer up" title="Click Up">
+        <!--<div class="arrow up-arrow"><h1>&uarr;</h1></div>-->
+        <div class="arrow up-arrow">
+            <svg class="chevron" version=" 1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+            <g>
+            <g>
+            <polygon points="128,48.907 0,176.907 30.187,207.093 128,109.28 225.813,207.093 256,176.907" />
+	        </g>
+            </g>
+            </svg>
+        </div>
+
+    </div>
+    <div class="headerContainer">
+        <div class="backContainer" title="Navigate home" onclick="location.href='thunderdomeHome.html';">
+            <svg class="backChevron" version=" 1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+            <g>
+            <g>
+            <polygon points="128,48.907 0,176.907 30.187,207.093 128,109.28 225.813,207.093 256,176.907" />
+
+	        </g>
+            </g>
+        </svg>
+        </div>
+        <div id="pageTitle">User<img class="bolt" src="/images/bolt.png" /> List</div>
+    </div>
+
+    <div id="tileTarget"></div>
+
+    <div id="downArrow" class="arrowContainer down" title="Click Down">
+        <div class="arrow down-arrow">
+            <svg class="chevron" version=" 1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 viewBox="0 0 256 256" xml:space="preserve">
+            <g>
+            <g>
+            <polygon points="225.813,48.907 128,146.72 30.187,48.907 0,79.093 128,207.093 256,79.093" />
+	        </g>
+            </g>
+            </svg>
+            <!--<h1>&darr;</h1>-->
+        </div>
+    </div>
+
+</body>
+</html>

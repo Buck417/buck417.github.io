@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>User Search</title>
+    <link rel="stylesheet" href="./css/userStats.css">
+    <link rel="stylesheet" href="./css/jquery-ui.min.css">
+    <link href="./css/spinner.css" type="text/css" rel="stylesheet" />
+    <link href='https://fonts.googleapis.com/css?family=Gruppo' rel='stylesheet'>
+    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans&display=swap" rel="stylesheet">
+    <script src="./js/jquery-3.4.1.min.js"></script>
+    <script src="./js/jquery-ui.min.js"></script>
+    <script src="./js/config.js"></script>
+    <script src="./js/plotly-basic-latest.min.js"></script>
+    <script src="./js/userLanding.js"></script>
+    <script src="./js/plotlyGraph.js"></script>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+    <!--Date picker imports-->
+    <link rel="stylesheet" href="./css/default.css">
+    <link rel="stylesheet" href="./css/default.date.css">
+    <!--<script src="./js/picker.js"></script>
+    <script src="./js/picker.date.js"></script>-->
+    
+
+
+</head>
+<body class="tinted-image" style="align-content:stretch;">
+    <img src="./images/BG.jpg" class="fullscreen-bg__video" />
+
+
+    <div class="flex-container">
+        <div class="landingHeader">
+            <img src="./images/td_logo.png" class="logo"/>
+
+        </div>
+        <div class="flex-event-container">
+            <div class="messageContainer">Thank you for playing!</div>
+            <div class="inputContainer">
+
+                <div class="inputDiv">
+                    <!--<input type="text" class="datepicker" id="dateInput" placeholder="Event Date">-->
+                    <select id="userLandingEventDropdown" class="eventSelectionDropdown" onchange="selectEvent()">
+                    </select>
+                        <input id="userLandingUserInput" placeholder="Search User" spellcheck="false">
+                    <button id="userLandingSubmit" type="button" class="btn" onclick="navigateToUserStats()"><span>VIEW STATS</span></button>
+                </div>
+            </div>
+
+            <div id="footer">
+                <a href="http://www.airforce.com" target="_self">
+                    <img src="./images/AF_Symbol_White.svg" class="afLogo"/></a>
+                <label>We need high flyers like you to visit <a href="http://www.airforce.com" target="_self">AirForce.com</a>
+                </label>
+
+</div>
+        </div>
+    </div>
+
+</body>
+</html>

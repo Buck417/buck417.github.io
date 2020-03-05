@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Event List</title>
+
+    <link rel="stylesheet" href="./css/vertical.css">
+    <link rel="stylesheet" type="text/css" href="./js/slick.css" />
+    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans&display=swap" rel="stylesheet">
+    <script src="./js/jquery-3.4.1.min.js"></script>
+    <script src="./js/config.js"></script>
+    <script type="text/javascript" src="./js/slick.min.js" defer></script>
+    <script src="./js/vertical.js"></script>
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+</head>
+<body class="tinted-image" style="align-content:stretch;">
+    <video loop muted autoplay poster="img/videoframe.jpg" class="fullscreen-bg__video">
+        <source src="./images/cloudloop.mp4" type="video/mp4" class="cloudVideo">
+    </video>
+
+    <div class="flex-container">
+        <div class="flex-slider-container">
+            <div class="up">
+                <button type="button" class="top-arrow" style="display: inline-block;">
+                    <svg class="chevron" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                         viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<g>
+                    <g>
+                    <polygon points="128,48.907 0,176.907 30.187,207.093 128,109.28 225.813,207.093 256,176.907" />
+
+
+
+	</g>
+</g>
+</svg>
+                </button>
+            </div>
+            <div class="middle">
+                <div id="carouselContainer">
+                    <div class="slick-carousel"></div>
+                </div>
+            </div>
+            <div class="down">
+                <button type="button" data-role="none" class="bottom-arrow" aria-label="Next" role="button" style="display: inline-block;" aria-disabled="false">
+                    <svg class="chevron bottom" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                         viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<g>
+                    <g>
+                    <polygon points="128,48.907 0,176.907 30.187,207.093 128,109.28 225.813,207.093 256,176.907" />
+
+	</g>
+</g>
+</svg>
+                </button>
+            </div>
+        </div>
+
+        <div class="flex-event-container">
+
+            <div class="headerContainer">
+               
+                <div id="pageTitle" title="Navigate home" onclick="location.href='thunderdomeHome.html';">
+                    <div class="backContainer" title="Navigate home" onclick="location.href='thunderdomeHome.html';">
+                        <svg class="backChevron" version=" 1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                             viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+                        <g>
+                        <g>
+                        <polygon points="128,48.907 0,176.907 30.187,207.093 128,109.28 225.813,207.093 256,176.907" />
+
+	        </g>
+            </g>
+        </svg>
+                    </div>
+                    EVENT<img class="bolt" src="/images/bolt.png" /> LIST
+                </div>
+            </div>
+
+
+            <div id="eventData">
+                <div class="event-data-target"></div>
+            </div>
+        </div>
+
+
+    </div>
+</body>
+</html>

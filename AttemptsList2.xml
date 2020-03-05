@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ArrayOfAttemptVM xmlns="http://schemas.datacontract.org/2004/07/ThunderDomeAPI.Models" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <AttemptVM>
+    <Attempt_ID>32</Attempt_ID>
+    <Date_Created>2019-10-23T15:01:03.073</Date_Created>
+    <Event i:nil="true"/>
+    <Event_ID>30</Event_ID>
+    <Maneuver_ID i:nil="true"/>
+    <Score_P3D i:nil="true"/>
+    <Score_Viper i:nil="true"/>
+    <TPScores/>
+    <TimeOnTarget>2019-10-23T15:15:00</TimeOnTarget>
+    <User_ID>1</User_ID>
+    <Viper_Maneuvers i:nil="true"/>
+    <userVM>
+      <Attempts i:nil="true"/>
+      <Callsign>ELMO</Callsign>
+      <Password i:nil="true"/>
+      <Problems i:nil="true"/>
+      <Proficiencies i:nil="true"/>
+      <Role i:nil="true"/>
+      <Role_ID>1</Role_ID>
+      <User_ID>1</User_ID>
+    </userVM>
+  </AttemptVM>
+  <AttemptVM>
+    33
+    2019-10-23T15:02:17.857
+
+    30
+
+
+
+
+    2019-10-23T15:17:00
+    1
+
+
+    </>
+    <AttemptVM>
+      36</Attempt_ID>
+      2019-10-24T17:25:29.753</Date_Created>
+
+      30</Event_ID>
+
+
+
+
+      2019-10-24T00:00:00</TimeOnTarget>
+      1</User_ID>
+
+      </userVM>
+    </AttemptVM>
+    <AttemptVM>
+      37
+      2019-10-24T17:27:44.41
+
+      30
+
+
+
+
+      2019-10-24T00:00:00
+      1
+
+
+      </>
+      <AttemptVM>
+        38
+        2019-10-24T17:32:20.38
+
+        30
+
+
+
+
+        2019-10-24T00:00:00
+        1
+
+
+        </>
+      </ArrayOfAttemptVM>

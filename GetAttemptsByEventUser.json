@@ -1,0 +1,500 @@
+[
+  {
+    "AttemptVM": {
+      "Attempt_ID": "14",
+      "Date_Created": "2019-06-01T17:54:15",
+      "Event": {
+        "@nil": "true"
+      },
+      "Event_ID": "13",
+      "Maneuver_ID": {
+        "@nil": "true"
+      },
+      "Score_P3D": {
+        "@nil": "true"
+      },
+      "Score_Viper": {
+        "@nil": "true"
+      },
+      "TPScores": [
+        {
+          "AttemptID": "16",
+          "Delta_TimeAtTP": "+ 02:13",
+          "IdealTimeAtTP": "5:53:20 PM",
+          "MaxPositionScore": "625",
+          "MaxTimingScore": "100",
+          "PositionScore": "100",
+          "TP": "TP01",
+          "TP_Type": "TURN",
+          "TimeArrivedAtTP": "5:55:33 PM",
+          "TimingScore": "0",
+          "TotalPositScore": "100",
+          "TotalScore": "100",
+          "TotalTimeScore": "0"
+        },
+        {
+          "AttemptID": "16",
+          "Delta_TimeAtTP": "+ 01:52",
+          "IdealTimeAtTP": "5:56:16 PM",
+          "MaxPositionScore": "625",
+          "MaxTimingScore": "100",
+          "PositionScore": "100",
+          "TP": "TP02",
+          "TP_Type": "TURN",
+          "TimeArrivedAtTP": "5:58:08 PM",
+          "TimingScore": "0",
+          "TotalPositScore": "200",
+          "TotalScore": "200",
+          "TotalTimeScore": "0"
+        },
+        {
+          "AttemptID": "16",
+          "Delta_TimeAtTP": "+ 01:40",
+          "IdealTimeAtTP": "5:57:41 PM",
+          "MaxPositionScore": "625",
+          "MaxTimingScore": "100",
+          "PositionScore": "100",
+          "TP": "TP03",
+          "TP_Type": "TURN",
+          "TimeArrivedAtTP": "5:59:21 PM",
+          "TimingScore": "0",
+          "TotalPositScore": "300",
+          "TotalScore": "300",
+          "TotalTimeScore": "0"
+        },
+        {
+          "AttemptID": "16",
+          "Delta_TimeAtTP": "+ 01:13",
+          "IdealTimeAtTP": "5:59:34 PM",
+          "MaxPositionScore": "625",
+          "MaxTimingScore": "100",
+          "PositionScore": "100",
+          "TP": "TP04",
+          "TP_Type": "TURN",
+          "TimeArrivedAtTP": "6:00:47 PM",
+          "TimingScore": "1.51",
+          "TotalPositScore": "400",
+          "TotalScore": "402",
+          "TotalTimeScore": "2"
+        },
+        {
+          "AttemptID": "16",
+          "Delta_TimeAtTP": "+ 01:00",
+          "IdealTimeAtTP": "6:00:26 PM",
+          "MaxPositionScore": "625",
+          "MaxTimingScore": "100",
+          "PositionScore": "100",
+          "TP": "TP05",
+          "TP_Type": "TURN",
+          "TimeArrivedAtTP": "6:01:26 PM",
+          "TimingScore": "2.18",
+          "TotalPositScore": "500",
+          "TotalScore": "504",
+          "TotalTimeScore": "4"
+        },
+        {
+          "AttemptID": "16",
+          "Delta_TimeAtTP": "+ 00:33",
+          "IdealTimeAtTP": "6:02:27 PM",
+          "MaxPositionScore": "1250",
+          "MaxTimingScore": "200",
+          "PositionScore": "200",
+          "TP": "TP06",
+          "TP_Type": "IP",
+          "TimeArrivedAtTP": "6:03:00 PM",
+          "TimingScore": "53.24",
+          "TotalPositScore": "700",
+          "TotalScore": "757",
+          "TotalTimeScore": "57"
+        },
+        {
+          "AttemptID": "16",
+          "Delta_TimeAtTP": "+ 00:02",
+          "IdealTimeAtTP": "6:04:15 PM",
+          "MaxPositionScore": "6250",
+          "MaxTimingScore": "1000",
+          "PositionScore": "1000",
+          "TP": "TP07",
+          "TP_Type": "TGT",
+          "TimeArrivedAtTP": "6:04:17 PM",
+          "TimingScore": "958.7",
+          "TotalPositScore": "1700",
+          "TotalScore": "2716",
+          "TotalTimeScore": "1016"
+        },
+        {
+          "AttemptID": "16",
+          "Delta_TimeAtTP": "+ 00:00",
+          "IdealTimeAtTP": "6:07:15 PM",
+          "MaxPositionScore": "625",
+          "MaxTimingScore": "100",
+          "PositionScore": "100",
+          "TP": "TP08",
+          "TP_Type": "TURN",
+          "TimeArrivedAtTP": "6:07:15 PM",
+          "TimingScore": "100",
+          "TotalPositScore": "1800",
+          "TotalScore": "2916",
+          "TotalTimeScore": "1116"
+        }
+      ],
+      "TimeOnTarget": "2019-10-01T18:04:15",
+      "User_ID": "2",
+      "Viper_Maneuvers": {
+        "@nil": "true"
+      },
+      "userVM": {
+        "Attempts": {
+          "@nil": "true"
+        },
+        "Callsign": "SEANTAY",
+        "Password": {
+          "@nil": "true"
+        },
+        "Problems": {
+          "@nil": "true"
+        },
+        "Proficiencies": {
+          "@nil": "true"
+        },
+        "Role": {
+          "@nil": "true"
+        },
+        "Role_ID": "1",
+        "User_ID": "2"
+      }
+    }
+  },
+  {
+    "AttemptVM": {
+      "Attempt_ID": "15",
+      "Date_Created": "2019-09-01T17:54:15",
+      "Event": {
+        "@nil": "true"
+      },
+      "Event_ID": "13",
+      "Maneuver_ID": {
+        "@nil": "true"
+      },
+      "Score_P3D": {
+        "@nil": "true"
+      },
+      "Score_Viper": {
+        "@nil": "true"
+      },
+      "TPScores": [
+        {
+          "AttemptID": "16",
+          "Delta_TimeAtTP": "+ 02:13",
+          "IdealTimeAtTP": "5:53:20 PM",
+          "MaxPositionScore": "625",
+          "MaxTimingScore": "100",
+          "PositionScore": "100",
+          "TP": "TP01",
+          "TP_Type": "TURN",
+          "TimeArrivedAtTP": "5:55:33 PM",
+          "TimingScore": "0",
+          "TotalPositScore": "100",
+          "TotalScore": "100",
+          "TotalTimeScore": "0"
+        },
+        {
+          "AttemptID": "16",
+          "Delta_TimeAtTP": "+ 01:52",
+          "IdealTimeAtTP": "5:56:16 PM",
+          "MaxPositionScore": "625",
+          "MaxTimingScore": "100",
+          "PositionScore": "100",
+          "TP": "TP02",
+          "TP_Type": "TURN",
+          "TimeArrivedAtTP": "5:58:08 PM",
+          "TimingScore": "0",
+          "TotalPositScore": "200",
+          "TotalScore": "200",
+          "TotalTimeScore": "0"
+        },
+        {
+          "AttemptID": "16",
+          "Delta_TimeAtTP": "+ 01:40",
+          "IdealTimeAtTP": "5:57:41 PM",
+          "MaxPositionScore": "625",
+          "MaxTimingScore": "100",
+          "PositionScore": "100",
+          "TP": "TP03",
+          "TP_Type": "TURN",
+          "TimeArrivedAtTP": "5:59:21 PM",
+          "TimingScore": "0",
+          "TotalPositScore": "300",
+          "TotalScore": "300",
+          "TotalTimeScore": "0"
+        },
+        {
+          "AttemptID": "16",
+          "Delta_TimeAtTP": "+ 01:13",
+          "IdealTimeAtTP": "5:59:34 PM",
+          "MaxPositionScore": "625",
+          "MaxTimingScore": "100",
+          "PositionScore": "100",
+          "TP": "TP04",
+          "TP_Type": "TURN",
+          "TimeArrivedAtTP": "6:00:47 PM",
+          "TimingScore": "1.51",
+          "TotalPositScore": "400",
+          "TotalScore": "402",
+          "TotalTimeScore": "2"
+        },
+        {
+          "AttemptID": "16",
+          "Delta_TimeAtTP": "+ 01:00",
+          "IdealTimeAtTP": "6:00:26 PM",
+          "MaxPositionScore": "625",
+          "MaxTimingScore": "100",
+          "PositionScore": "100",
+          "TP": "TP05",
+          "TP_Type": "TURN",
+          "TimeArrivedAtTP": "6:01:26 PM",
+          "TimingScore": "2.18",
+          "TotalPositScore": "500",
+          "TotalScore": "504",
+          "TotalTimeScore": "4"
+        },
+        {
+          "AttemptID": "16",
+          "Delta_TimeAtTP": "+ 00:33",
+          "IdealTimeAtTP": "6:02:27 PM",
+          "MaxPositionScore": "1250",
+          "MaxTimingScore": "200",
+          "PositionScore": "200",
+          "TP": "TP06",
+          "TP_Type": "IP",
+          "TimeArrivedAtTP": "6:03:00 PM",
+          "TimingScore": "53.24",
+          "TotalPositScore": "700",
+          "TotalScore": "757",
+          "TotalTimeScore": "57"
+        },
+        {
+          "AttemptID": "16",
+          "Delta_TimeAtTP": "+ 00:02",
+          "IdealTimeAtTP": "6:04:15 PM",
+          "MaxPositionScore": "6250",
+          "MaxTimingScore": "1000",
+          "PositionScore": "1000",
+          "TP": "TP07",
+          "TP_Type": "TGT",
+          "TimeArrivedAtTP": "6:04:17 PM",
+          "TimingScore": "958.7",
+          "TotalPositScore": "1700",
+          "TotalScore": "2716",
+          "TotalTimeScore": "1016"
+        },
+        {
+          "AttemptID": "16",
+          "Delta_TimeAtTP": "+ 00:00",
+          "IdealTimeAtTP": "6:07:15 PM",
+          "MaxPositionScore": "625",
+          "MaxTimingScore": "100",
+          "PositionScore": "100",
+          "TP": "TP08",
+          "TP_Type": "TURN",
+          "TimeArrivedAtTP": "6:07:15 PM",
+          "TimingScore": "100",
+          "TotalPositScore": "1000",
+          "TotalScore": "9000",
+          "TotalTimeScore": "8000"
+        }
+      ],
+      "TimeOnTarget": "2019-10-01T18:04:15",
+      "User_ID": "2",
+      "Viper_Maneuvers": {
+        "@nil": "true"
+      },
+      "userVM": {
+        "Attempts": {
+          "@nil": "true"
+        },
+        "Callsign": "SEANTAY",
+        "Password": {
+          "@nil": "true"
+        },
+        "Problems": {
+          "@nil": "true"
+        },
+        "Proficiencies": {
+          "@nil": "true"
+        },
+        "Role": {
+          "@nil": "true"
+        },
+        "Role_ID": "1",
+        "User_ID": "2"
+      }
+    }
+  },
+  {
+    "AttemptVM": {
+      "Attempt_ID": "13",
+      "Date_Created": "2019-01-01T17:54:15",
+      "Event": {
+        "@nil": "true"
+      },
+      "Event_ID": "13",
+      "Maneuver_ID": {
+        "@nil": "true"
+      },
+      "Score_P3D": {
+        "@nil": "true"
+      },
+      "Score_Viper": {
+        "@nil": "true"
+      },
+      "TPScores": [
+        {
+          "AttemptID": "16",
+          "Delta_TimeAtTP": "+ 02:13",
+          "IdealTimeAtTP": "5:53:20 PM",
+          "MaxPositionScore": "625",
+          "MaxTimingScore": "100",
+          "PositionScore": "100",
+          "TP": "TP01",
+          "TP_Type": "TURN",
+          "TimeArrivedAtTP": "5:55:33 PM",
+          "TimingScore": "0",
+          "TotalPositScore": "100",
+          "TotalScore": "100",
+          "TotalTimeScore": "0"
+        },
+        {
+          "AttemptID": "16",
+          "Delta_TimeAtTP": "+ 01:52",
+          "IdealTimeAtTP": "5:56:16 PM",
+          "MaxPositionScore": "625",
+          "MaxTimingScore": "100",
+          "PositionScore": "100",
+          "TP": "TP02",
+          "TP_Type": "TURN",
+          "TimeArrivedAtTP": "5:58:08 PM",
+          "TimingScore": "0",
+          "TotalPositScore": "200",
+          "TotalScore": "200",
+          "TotalTimeScore": "0"
+        },
+        {
+          "AttemptID": "16",
+          "Delta_TimeAtTP": "+ 01:40",
+          "IdealTimeAtTP": "5:57:41 PM",
+          "MaxPositionScore": "625",
+          "MaxTimingScore": "100",
+          "PositionScore": "100",
+          "TP": "TP03",
+          "TP_Type": "TURN",
+          "TimeArrivedAtTP": "5:59:21 PM",
+          "TimingScore": "0",
+          "TotalPositScore": "300",
+          "TotalScore": "300",
+          "TotalTimeScore": "0"
+        },
+        {
+          "AttemptID": "16",
+          "Delta_TimeAtTP": "+ 01:13",
+          "IdealTimeAtTP": "5:59:34 PM",
+          "MaxPositionScore": "625",
+          "MaxTimingScore": "100",
+          "PositionScore": "100",
+          "TP": "TP04",
+          "TP_Type": "TURN",
+          "TimeArrivedAtTP": "6:00:47 PM",
+          "TimingScore": "1.51",
+          "TotalPositScore": "400",
+          "TotalScore": "402",
+          "TotalTimeScore": "2"
+        },
+        {
+          "AttemptID": "16",
+          "Delta_TimeAtTP": "+ 01:00",
+          "IdealTimeAtTP": "6:00:26 PM",
+          "MaxPositionScore": "625",
+          "MaxTimingScore": "100",
+          "PositionScore": "100",
+          "TP": "TP05",
+          "TP_Type": "TURN",
+          "TimeArrivedAtTP": "6:01:26 PM",
+          "TimingScore": "2.18",
+          "TotalPositScore": "500",
+          "TotalScore": "504",
+          "TotalTimeScore": "4"
+        },
+        {
+          "AttemptID": "16",
+          "Delta_TimeAtTP": "+ 00:33",
+          "IdealTimeAtTP": "6:02:27 PM",
+          "MaxPositionScore": "1250",
+          "MaxTimingScore": "200",
+          "PositionScore": "200",
+          "TP": "TP06",
+          "TP_Type": "IP",
+          "TimeArrivedAtTP": "6:03:00 PM",
+          "TimingScore": "53.24",
+          "TotalPositScore": "700",
+          "TotalScore": "757",
+          "TotalTimeScore": "57"
+        },
+        {
+          "AttemptID": "16",
+          "Delta_TimeAtTP": "+ 00:02",
+          "IdealTimeAtTP": "6:04:15 PM",
+          "MaxPositionScore": "6250",
+          "MaxTimingScore": "1000",
+          "PositionScore": "1000",
+          "TP": "TP07",
+          "TP_Type": "TGT",
+          "TimeArrivedAtTP": "6:04:17 PM",
+          "TimingScore": "958.7",
+          "TotalPositScore": "1700",
+          "TotalScore": "2716",
+          "TotalTimeScore": "1016"
+        },
+        {
+          "AttemptID": "16",
+          "Delta_TimeAtTP": "+ 00:00",
+          "IdealTimeAtTP": "6:07:15 PM",
+          "MaxPositionScore": "625",
+          "MaxTimingScore": "100",
+          "PositionScore": "100",
+          "TP": "TP08",
+          "TP_Type": "TURN",
+          "TimeArrivedAtTP": "6:07:15 PM",
+          "TimingScore": "100",
+          "TotalPositScore": "400",
+          "TotalScore": "800",
+          "TotalTimeScore": "400"
+        }
+      ],
+      "TimeOnTarget": "2019-10-01T18:04:15",
+      "User_ID": "2",
+      "Viper_Maneuvers": {
+        "@nil": "true"
+      },
+      "userVM": {
+        "Attempts": {
+          "@nil": "true"
+        },
+        "Callsign": "SEANTAY",
+        "Password": {
+          "@nil": "true"
+        },
+        "Problems": {
+          "@nil": "true"
+        },
+        "Proficiencies": {
+          "@nil": "true"
+        },
+        "Role": {
+          "@nil": "true"
+        },
+        "Role_ID": "1",
+        "User_ID": "2"
+      }
+    }
+  }
+]

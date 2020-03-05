@@ -1,0 +1,90 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Recent Scorers</title>
+
+    <link rel="stylesheet" href="./css/userGraph.css">
+    <link href='https://fonts.googleapis.com/css?family=Gruppo' rel='stylesheet'>
+    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans&display=swap" rel="stylesheet">
+    <script src="./js/jquery-3.4.1.min.js"></script>
+    <script src="./js/config.js"></script>
+    <script src="./js/plotly-basic-latest.min.js"></script>
+    <script src="./js/recentScoreUsers.js"></script>
+    <script src="./js/plotlyGraph.js"></script>
+    <link href="./css/spinner.css" type="text/css" rel="stylesheet" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+    <!--Date picker imports-->
+    <link rel="stylesheet" href="./css/default.css">
+    <link rel="stylesheet" href="./css/default.date.css">
+    <script src="./js/picker.js"></script>
+    <script src="./js/picker.date.js"></script>
+</head>
+<body class="tinted-image" style="align-content:stretch;">
+    <img src="./images/BG.jpg" class="fullscreen-bg__video"/>
+
+    <div class="flex-container">
+        <div class="flex-slider-container">
+            <label class="leaderboard-title">RECENT SCORERS</label>
+            <div class="leaderboard-container">
+                <table id="leaderboard">
+                    <thead>
+                        <tr>
+                            <th>User</th>
+                            <th>Score</th>
+                        </tr>
+                    </thead>
+
+                    <tbody class="user-scores-target">
+                    </tbody>
+                </table>
+                
+
+            </div>
+            <div class="logoContainer triggerEventPopup" ><img src="./images/Asset4.svg"/></div>
+        </div>
+        <div class="flex-event-container">
+            <div id="userGraph">
+               <div id="graphArea">
+                   <div class="spinnerContainer"><div class="loader">Loading...</div></div>
+               </div>
+            </div>
+            <div id="userData">
+                <div class="tableContainer">
+                    <table id="tableData">
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="eventPopup">
+        <span class="helper"></span>
+        <div class="popupContainer">
+            <div class="popupTitle"><label>SELECT EVENT</label></div>
+            <table class="popupTable">
+                <!--<tr>
+                    <td><label>Date:</label></td>
+                    <td><input type="text" class="datepicker" id="dataInputPopup" placeholder="Event Date"></td>
+                </tr>-->
+                <tr>
+                    <td><label>Event:</label></td>
+                    <td>
+                        <select id="popupEventDropdown" class="eventSelectionDropdown" onchange="selectEvent()">
+                        </select>
+                    </td>
+                </tr>
+            </table>
+
+            <div class="popupCloseButton">
+                <svg class="popClose" id="Capa_1" height="auto" enable-background="new 0 0 386.667 386.667" viewBox="0 0 386.667 386.667" xmlns="http://www.w3.org/2000/svg">
+                    <path d="m386.667 45.564-45.564-45.564-147.77 147.769-147.769-147.769-45.564 45.564 147.769 147.769-147.769 147.77 45.564 45.564 147.769-147.769 147.769 147.769 45.564-45.564-147.768-147.77z" />
+                </svg>
+            </div>
+
+        </div>
+    </div>
+</body>
+</html>

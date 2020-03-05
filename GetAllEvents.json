@@ -1,0 +1,2000 @@
+{
+   "EventVM": [
+      {
+         "Attempts": {
+            "AttemptVM": [
+               {
+                  "Attempt_ID": "4",
+                  "Date_Created": "2019-10-01T17:54:15",
+                  "Event": {
+                     "@nil": "true"
+                  },
+                  "Event_ID": "13",
+                  "Maneuver_ID": {
+                     "@nil": "true"
+                  },
+                  "Score_P3D": {
+                     "@nil": "true"
+                  },
+                  "Score_Viper": {
+                     "@nil": "true"
+                  },
+                  "TPScores": {
+                     "@nil": "true"
+                  },
+                  "TimeOnTarget": "2019-10-01T18:04:15",
+                  "User_ID": "1",
+                  "Viper_Maneuvers": {
+                     "@nil": "true"
+                  },
+                  "userVM": {
+                     "Attempts": {
+                        "@nil": "true"
+                     },
+                     "Callsign": "ELMO",
+                     "Password": {
+                        "@nil": "true"
+                     },
+                     "Problems": {
+                        "@nil": "true"
+                     },
+                     "Proficiencies": {
+                        "@nil": "true"
+                     },
+                     "Role": {
+                        "@nil": "true"
+                     },
+                     "Role_ID": "1",
+                     "User_ID": "1"
+                  }
+               },
+               {
+                  "Attempt_ID": "16",
+                  "Date_Created": "2019-10-01T17:54:15",
+                  "Event": {
+                     "@nil": "true"
+                  },
+                  "Event_ID": "13",
+                  "Maneuver_ID": {
+                     "@nil": "true"
+                  },
+                  "Score_P3D": {
+                     "@nil": "true"
+                  },
+                  "Score_Viper": {
+                     "@nil": "true"
+                  },
+                  "TPScores": {
+                     "@nil": "true"
+                  },
+                  "TimeOnTarget": "2019-10-01T18:04:15",
+                  "User_ID": "2",
+                  "Viper_Maneuvers": {
+                     "@nil": "true"
+                  },
+                  "userVM": {
+                     "Attempts": {
+                        "@nil": "true"
+                     },
+                     "Callsign": "SEANTAY",
+                     "Password": {
+                        "@nil": "true"
+                     },
+                     "Problems": {
+                        "@nil": "true"
+                     },
+                     "Proficiencies": {
+                        "@nil": "true"
+                     },
+                     "Role": {
+                        "@nil": "true"
+                     },
+                     "Role_ID": "1",
+                     "User_ID": "2"
+                  }
+               },
+               {
+                  "Attempt_ID": "22",
+                  "Date_Created": "2019-10-09T18:43:07.197",
+                  "Event": {
+                     "@nil": "true"
+                  },
+                  "Event_ID": "13",
+                  "Maneuver_ID": {
+                     "@nil": "true"
+                  },
+                  "Score_P3D": {
+                     "@nil": "true"
+                  },
+                  "Score_Viper": {
+                     "@nil": "true"
+                  },
+                  "TPScores": {
+                     "@nil": "true"
+                  },
+                  "TimeOnTarget": "2019-10-09T19:06:00",
+                  "User_ID": "3",
+                  "Viper_Maneuvers": {
+                     "@nil": "true"
+                  },
+                  "userVM": {
+                     "Attempts": {
+                        "@nil": "true"
+                     },
+                     "Callsign": "THUNDIE01",
+                     "Password": {
+                        "@nil": "true"
+                     },
+                     "Problems": {
+                        "@nil": "true"
+                     },
+                     "Proficiencies": {
+                        "@nil": "true"
+                     },
+                     "Role": {
+                        "@nil": "true"
+                     },
+                     "Role_ID": "1",
+                     "User_ID": "3"
+                  }
+               }
+            ]
+         },
+         "Event_ID": "13",
+         "Event_Name": "KraftBowlEvent",
+         "IPPS_Weight": "2",
+         "IPTS_Weight": "1",
+         "Scenario": {
+            "Events": {
+               "@nil": "true"
+            },
+            "Parsed_Routes": {
+               "@nil": "true"
+            },
+            "Scenario_ID": "13",
+            "Scenario_Name": "KraftBowl"
+         },
+         "Scenario_ID": "13",
+         "TGPS_Weight": "1",
+         "TGTS_Weight": "10",
+         "TPPS_Weight": "1",
+         "TPTS_Weight": "1"
+      },
+      {
+         "Attempts": {
+            "AttemptVM": {
+               "Attempt_ID": "12",
+               "Date_Created": "2019-10-02T14:09:10.533",
+               "Event": {
+                  "@nil": "true"
+               },
+               "Event_ID": "14",
+               "Maneuver_ID": {
+                  "@nil": "true"
+               },
+               "Score_P3D": {
+                  "@nil": "true"
+               },
+               "Score_Viper": {
+                  "@nil": "true"
+               },
+               "TPScores": {
+                  "@nil": "true"
+               },
+               "TimeOnTarget": "2019-10-02T14:09:10.533",
+               "User_ID": "1",
+               "Viper_Maneuvers": {
+                  "@nil": "true"
+               },
+               "userVM": {
+                  "Attempts": {
+                     "@nil": "true"
+                  },
+                  "Callsign": "ELMO",
+                  "Password": {
+                     "@nil": "true"
+                  },
+                  "Problems": {
+                     "@nil": "true"
+                  },
+                  "Proficiencies": {
+                     "@nil": "true"
+                  },
+                  "Role": {
+                     "@nil": "true"
+                  },
+                  "Role_ID": "1",
+                  "User_ID": "1"
+               }
+            }
+         },
+         "Event_ID": "14",
+         "Event_Name": "Nathan's Event",
+         "IPPS_Weight": "2",
+         "IPTS_Weight": "1",
+         "Scenario": {
+            "Events": {
+               "@nil": "true"
+            },
+            "Parsed_Routes": {
+               "@nil": "true"
+            },
+            "Scenario_ID": "14",
+            "Scenario_Name": "Nathan"
+         },
+         "Scenario_ID": "14",
+         "TGPS_Weight": "1",
+         "TGTS_Weight": "10",
+         "TPPS_Weight": "1",
+         "TPTS_Weight": "1"
+      },
+      {
+         "Attempts": null,
+         "Event_ID": "15",
+         "Event_Name": "Qwerty",
+         "IPPS_Weight": "2",
+         "IPTS_Weight": "1",
+         "Scenario": {
+            "Events": {
+               "@nil": "true"
+            },
+            "Parsed_Routes": {
+               "@nil": "true"
+            },
+            "Scenario_ID": "15",
+            "Scenario_Name": "_Thunderd1"
+         },
+         "Scenario_ID": "15",
+         "TGPS_Weight": "1",
+         "TGTS_Weight": "10",
+         "TPPS_Weight": "1",
+         "TPTS_Weight": "1"
+      },
+      {
+         "Attempts": {
+            "AttemptVM": {
+               "Attempt_ID": "17",
+               "Date_Created": "2019-10-08T15:55:02.157",
+               "Event": {
+                  "@nil": "true"
+               },
+               "Event_ID": "16",
+               "Maneuver_ID": {
+                  "@nil": "true"
+               },
+               "Score_P3D": {
+                  "@nil": "true"
+               },
+               "Score_Viper": {
+                  "@nil": "true"
+               },
+               "TPScores": {
+                  "@nil": "true"
+               },
+               "TimeOnTarget": "2019-10-08T16:10:00",
+               "User_ID": "2",
+               "Viper_Maneuvers": {
+                  "@nil": "true"
+               },
+               "userVM": {
+                  "Attempts": {
+                     "@nil": "true"
+                  },
+                  "Callsign": "SEANTAY",
+                  "Password": {
+                     "@nil": "true"
+                  },
+                  "Problems": {
+                     "@nil": "true"
+                  },
+                  "Proficiencies": {
+                     "@nil": "true"
+                  },
+                  "Role": {
+                     "@nil": "true"
+                  },
+                  "Role_ID": "1",
+                  "User_ID": "2"
+               }
+            }
+         },
+         "Event_ID": "16",
+         "Event_Name": "Doodle",
+         "IPPS_Weight": "2",
+         "IPTS_Weight": "1",
+         "Scenario": {
+            "Events": {
+               "@nil": "true"
+            },
+            "Parsed_Routes": {
+               "@nil": "true"
+            },
+            "Scenario_ID": "16",
+            "Scenario_Name": "Fixed"
+         },
+         "Scenario_ID": "16",
+         "TGPS_Weight": "1",
+         "TGTS_Weight": "10",
+         "TPPS_Weight": "1",
+         "TPTS_Weight": "1"
+      },
+      {
+         "Attempts": {
+            "AttemptVM": {
+               "Attempt_ID": "18",
+               "Date_Created": "2019-10-08T17:20:04.6",
+               "Event": {
+                  "@nil": "true"
+               },
+               "Event_ID": "17",
+               "Maneuver_ID": {
+                  "@nil": "true"
+               },
+               "Score_P3D": {
+                  "@nil": "true"
+               },
+               "Score_Viper": {
+                  "@nil": "true"
+               },
+               "TPScores": {
+                  "@nil": "true"
+               },
+               "TimeOnTarget": "2019-10-08T17:32:00",
+               "User_ID": "1",
+               "Viper_Maneuvers": {
+                  "@nil": "true"
+               },
+               "userVM": {
+                  "Attempts": {
+                     "@nil": "true"
+                  },
+                  "Callsign": "ELMO",
+                  "Password": {
+                     "@nil": "true"
+                  },
+                  "Problems": {
+                     "@nil": "true"
+                  },
+                  "Proficiencies": {
+                     "@nil": "true"
+                  },
+                  "Role": {
+                     "@nil": "true"
+                  },
+                  "Role_ID": "1",
+                  "User_ID": "1"
+               }
+            }
+         },
+         "Event_ID": "17",
+         "Event_Name": "ChowderBowl",
+         "IPPS_Weight": "2",
+         "IPTS_Weight": "1",
+         "Scenario": {
+            "Events": {
+               "@nil": "true"
+            },
+            "Parsed_Routes": {
+               "@nil": "true"
+            },
+            "Scenario_ID": "17",
+            "Scenario_Name": "TEST"
+         },
+         "Scenario_ID": "17",
+         "TGPS_Weight": "1",
+         "TGTS_Weight": "10",
+         "TPPS_Weight": "1",
+         "TPTS_Weight": "1"
+      },
+      {
+         "Attempts": {
+            "AttemptVM": {
+               "Attempt_ID": "19",
+               "Date_Created": "2019-10-08T19:34:39.23",
+               "Event": {
+                  "@nil": "true"
+               },
+               "Event_ID": "18",
+               "Maneuver_ID": {
+                  "@nil": "true"
+               },
+               "Score_P3D": {
+                  "@nil": "true"
+               },
+               "Score_Viper": {
+                  "@nil": "true"
+               },
+               "TPScores": {
+                  "@nil": "true"
+               },
+               "TimeOnTarget": "2019-10-08T00:00:00",
+               "User_ID": "1",
+               "Viper_Maneuvers": {
+                  "@nil": "true"
+               },
+               "userVM": {
+                  "Attempts": {
+                     "@nil": "true"
+                  },
+                  "Callsign": "ELMO",
+                  "Password": {
+                     "@nil": "true"
+                  },
+                  "Problems": {
+                     "@nil": "true"
+                  },
+                  "Proficiencies": {
+                     "@nil": "true"
+                  },
+                  "Role": {
+                     "@nil": "true"
+                  },
+                  "Role_ID": "1",
+                  "User_ID": "1"
+               }
+            }
+         },
+         "Event_ID": "18",
+         "Event_Name": "ChunkyBowl",
+         "IPPS_Weight": "2",
+         "IPTS_Weight": "1",
+         "Scenario": {
+            "Events": {
+               "@nil": "true"
+            },
+            "Parsed_Routes": {
+               "@nil": "true"
+            },
+            "Scenario_ID": "18",
+            "Scenario_Name": "Fixed_For_Real"
+         },
+         "Scenario_ID": "18",
+         "TGPS_Weight": "1",
+         "TGTS_Weight": "10",
+         "TPPS_Weight": "1",
+         "TPTS_Weight": "1"
+      },
+      {
+         "Attempts": {
+            "AttemptVM": {
+               "Attempt_ID": "20",
+               "Date_Created": "2019-10-08T20:16:49.057",
+               "Event": {
+                  "@nil": "true"
+               },
+               "Event_ID": "19",
+               "Maneuver_ID": {
+                  "@nil": "true"
+               },
+               "Score_P3D": {
+                  "@nil": "true"
+               },
+               "Score_Viper": {
+                  "@nil": "true"
+               },
+               "TPScores": {
+                  "@nil": "true"
+               },
+               "TimeOnTarget": "2019-10-08T00:00:00",
+               "User_ID": "1",
+               "Viper_Maneuvers": {
+                  "@nil": "true"
+               },
+               "userVM": {
+                  "Attempts": {
+                     "@nil": "true"
+                  },
+                  "Callsign": "ELMO",
+                  "Password": {
+                     "@nil": "true"
+                  },
+                  "Problems": {
+                     "@nil": "true"
+                  },
+                  "Proficiencies": {
+                     "@nil": "true"
+                  },
+                  "Role": {
+                     "@nil": "true"
+                  },
+                  "Role_ID": "1",
+                  "User_ID": "1"
+               }
+            }
+         },
+         "Event_ID": "19",
+         "Event_Name": "For Real This Time I Swear",
+         "IPPS_Weight": "2",
+         "IPTS_Weight": "1",
+         "Scenario": {
+            "Events": {
+               "@nil": "true"
+            },
+            "Parsed_Routes": {
+               "@nil": "true"
+            },
+            "Scenario_ID": "19",
+            "Scenario_Name": "_Thunderd1_NEWEST"
+         },
+         "Scenario_ID": "19",
+         "TGPS_Weight": "1",
+         "TGTS_Weight": "10",
+         "TPPS_Weight": "1",
+         "TPTS_Weight": "1"
+      },
+      {
+         "Attempts": {
+            "AttemptVM": {
+               "Attempt_ID": "21",
+               "Date_Created": "2019-10-09T14:51:39.42",
+               "Event": {
+                  "@nil": "true"
+               },
+               "Event_ID": "20",
+               "Maneuver_ID": {
+                  "@nil": "true"
+               },
+               "Score_P3D": {
+                  "@nil": "true"
+               },
+               "Score_Viper": {
+                  "@nil": "true"
+               },
+               "TPScores": {
+                  "@nil": "true"
+               },
+               "TimeOnTarget": "2019-10-09T00:00:00",
+               "User_ID": "1",
+               "Viper_Maneuvers": {
+                  "@nil": "true"
+               },
+               "userVM": {
+                  "Attempts": {
+                     "@nil": "true"
+                  },
+                  "Callsign": "ELMO",
+                  "Password": {
+                     "@nil": "true"
+                  },
+                  "Problems": {
+                     "@nil": "true"
+                  },
+                  "Proficiencies": {
+                     "@nil": "true"
+                  },
+                  "Role": {
+                     "@nil": "true"
+                  },
+                  "Role_ID": "1",
+                  "User_ID": "1"
+               }
+            }
+         },
+         "Event_ID": "20",
+         "Event_Name": "test1",
+         "IPPS_Weight": "2",
+         "IPTS_Weight": "1",
+         "Scenario": {
+            "Events": {
+               "@nil": "true"
+            },
+            "Parsed_Routes": {
+               "@nil": "true"
+            },
+            "Scenario_ID": "20",
+            "Scenario_Name": "ThunderDomeRoutes1"
+         },
+         "Scenario_ID": "20",
+         "TGPS_Weight": "1",
+         "TGTS_Weight": "10",
+         "TPPS_Weight": "1",
+         "TPTS_Weight": "1"
+      },
+      {
+         "Attempts": null,
+         "Event_ID": "21",
+         "Event_Name": "DemoEvent",
+         "IPPS_Weight": "2",
+         "IPTS_Weight": "1",
+         "Scenario": {
+            "Events": {
+               "@nil": "true"
+            },
+            "Parsed_Routes": {
+               "@nil": "true"
+            },
+            "Scenario_ID": "21",
+            "Scenario_Name": "DemoRoute"
+         },
+         "Scenario_ID": "21",
+         "TGPS_Weight": "1",
+         "TGTS_Weight": "10",
+         "TPPS_Weight": "1",
+         "TPTS_Weight": "1"
+      },
+      {
+         "Attempts": {
+            "AttemptVM": [
+               {
+                  "Attempt_ID": "23",
+                  "Date_Created": "2019-10-10T15:34:12.22",
+                  "Event": {
+                     "@nil": "true"
+                  },
+                  "Event_ID": "22",
+                  "Maneuver_ID": {
+                     "@nil": "true"
+                  },
+                  "Score_P3D": {
+                     "@nil": "true"
+                  },
+                  "Score_Viper": {
+                     "@nil": "true"
+                  },
+                  "TPScores": {
+                     "@nil": "true"
+                  },
+                  "TimeOnTarget": "2019-10-10T19:40:07",
+                  "User_ID": "1",
+                  "Viper_Maneuvers": {
+                     "@nil": "true"
+                  },
+                  "userVM": {
+                     "Attempts": {
+                        "@nil": "true"
+                     },
+                     "Callsign": "ELMO",
+                     "Password": {
+                        "@nil": "true"
+                     },
+                     "Problems": {
+                        "@nil": "true"
+                     },
+                     "Proficiencies": {
+                        "@nil": "true"
+                     },
+                     "Role": {
+                        "@nil": "true"
+                     },
+                     "Role_ID": "1",
+                     "User_ID": "1"
+                  }
+               },
+               {
+                  "Attempt_ID": "24",
+                  "Date_Created": "2019-10-10T17:09:36.41",
+                  "Event": {
+                     "@nil": "true"
+                  },
+                  "Event_ID": "22",
+                  "Maneuver_ID": {
+                     "@nil": "true"
+                  },
+                  "Score_P3D": {
+                     "@nil": "true"
+                  },
+                  "Score_Viper": {
+                     "@nil": "true"
+                  },
+                  "TPScores": {
+                     "@nil": "true"
+                  },
+                  "TimeOnTarget": "2019-10-10T07:07:17",
+                  "User_ID": "2",
+                  "Viper_Maneuvers": {
+                     "@nil": "true"
+                  },
+                  "userVM": {
+                     "Attempts": {
+                        "@nil": "true"
+                     },
+                     "Callsign": "SEANTAY",
+                     "Password": {
+                        "@nil": "true"
+                     },
+                     "Problems": {
+                        "@nil": "true"
+                     },
+                     "Proficiencies": {
+                        "@nil": "true"
+                     },
+                     "Role": {
+                        "@nil": "true"
+                     },
+                     "Role_ID": "1",
+                     "User_ID": "2"
+                  }
+               }
+            ]
+         },
+         "Event_ID": "22",
+         "Event_Name": "DemoRoute",
+         "IPPS_Weight": "2",
+         "IPTS_Weight": "1",
+         "Scenario": {
+            "Events": {
+               "@nil": "true"
+            },
+            "Parsed_Routes": {
+               "@nil": "true"
+            },
+            "Scenario_ID": "22",
+            "Scenario_Name": "DemoRoute"
+         },
+         "Scenario_ID": "22",
+         "TGPS_Weight": "1",
+         "TGTS_Weight": "10",
+         "TPPS_Weight": "1",
+         "TPTS_Weight": "1"
+      },
+      {
+         "Attempts": {
+            "AttemptVM": {
+               "Attempt_ID": "25",
+               "Date_Created": "2019-10-10T21:03:22.08",
+               "Event": {
+                  "@nil": "true"
+               },
+               "Event_ID": "23",
+               "Maneuver_ID": {
+                  "@nil": "true"
+               },
+               "Score_P3D": {
+                  "@nil": "true"
+               },
+               "Score_Viper": {
+                  "@nil": "true"
+               },
+               "TPScores": {
+                  "@nil": "true"
+               },
+               "TimeOnTarget": "2019-10-10T21:15:00",
+               "User_ID": "1",
+               "Viper_Maneuvers": {
+                  "@nil": "true"
+               },
+               "userVM": {
+                  "Attempts": {
+                     "@nil": "true"
+                  },
+                  "Callsign": "ELMO",
+                  "Password": {
+                     "@nil": "true"
+                  },
+                  "Problems": {
+                     "@nil": "true"
+                  },
+                  "Proficiencies": {
+                     "@nil": "true"
+                  },
+                  "Role": {
+                     "@nil": "true"
+                  },
+                  "Role_ID": "1",
+                  "User_ID": "1"
+               }
+            }
+         },
+         "Event_ID": "23",
+         "Event_Name": "ParserTest",
+         "IPPS_Weight": "2",
+         "IPTS_Weight": "1",
+         "Scenario": {
+            "Events": {
+               "@nil": "true"
+            },
+            "Parsed_Routes": {
+               "@nil": "true"
+            },
+            "Scenario_ID": "23",
+            "Scenario_Name": "ParserTest"
+         },
+         "Scenario_ID": "23",
+         "TGPS_Weight": "1",
+         "TGTS_Weight": "10",
+         "TPPS_Weight": "1",
+         "TPTS_Weight": "1"
+      },
+      {
+         "Attempts": {
+            "AttemptVM": {
+               "Attempt_ID": "26",
+               "Date_Created": "2019-10-15T17:29:35.853",
+               "Event": {
+                  "@nil": "true"
+               },
+               "Event_ID": "24",
+               "Maneuver_ID": {
+                  "@nil": "true"
+               },
+               "Score_P3D": {
+                  "@nil": "true"
+               },
+               "Score_Viper": {
+                  "@nil": "true"
+               },
+               "TPScores": {
+                  "@nil": "true"
+               },
+               "TimeOnTarget": "2019-10-15T17:37:00",
+               "User_ID": "1",
+               "Viper_Maneuvers": {
+                  "@nil": "true"
+               },
+               "userVM": {
+                  "Attempts": {
+                     "@nil": "true"
+                  },
+                  "Callsign": "ELMO",
+                  "Password": {
+                     "@nil": "true"
+                  },
+                  "Problems": {
+                     "@nil": "true"
+                  },
+                  "Proficiencies": {
+                     "@nil": "true"
+                  },
+                  "Role": {
+                     "@nil": "true"
+                  },
+                  "Role_ID": "1",
+                  "User_ID": "1"
+               }
+            }
+         },
+         "Event_ID": "24",
+         "Event_Name": "ParserTest2",
+         "IPPS_Weight": "2",
+         "IPTS_Weight": "1",
+         "Scenario": {
+            "Events": {
+               "@nil": "true"
+            },
+            "Parsed_Routes": {
+               "@nil": "true"
+            },
+            "Scenario_ID": "24",
+            "Scenario_Name": "ParserTest2"
+         },
+         "Scenario_ID": "24",
+         "TGPS_Weight": "1",
+         "TGTS_Weight": "10",
+         "TPPS_Weight": "1",
+         "TPTS_Weight": "1"
+      },
+      {
+         "Attempts": {
+            "AttemptVM": {
+               "Attempt_ID": "27",
+               "Date_Created": "2019-10-21T20:41:10.943",
+               "Event": {
+                  "@nil": "true"
+               },
+               "Event_ID": "25",
+               "Maneuver_ID": {
+                  "@nil": "true"
+               },
+               "Score_P3D": {
+                  "@nil": "true"
+               },
+               "Score_Viper": {
+                  "@nil": "true"
+               },
+               "TPScores": {
+                  "@nil": "true"
+               },
+               "TimeOnTarget": "2019-10-21T21:00:00",
+               "User_ID": "2",
+               "Viper_Maneuvers": {
+                  "@nil": "true"
+               },
+               "userVM": {
+                  "Attempts": {
+                     "@nil": "true"
+                  },
+                  "Callsign": "SEANTAY",
+                  "Password": {
+                     "@nil": "true"
+                  },
+                  "Problems": {
+                     "@nil": "true"
+                  },
+                  "Proficiencies": {
+                     "@nil": "true"
+                  },
+                  "Role": {
+                     "@nil": "true"
+                  },
+                  "Role_ID": "1",
+                  "User_ID": "2"
+               }
+            }
+         },
+         "Event_ID": "25",
+         "Event_Name": "OffTest!",
+         "IPPS_Weight": "2",
+         "IPTS_Weight": "1",
+         "Scenario": {
+            "Events": {
+               "@nil": "true"
+            },
+            "Parsed_Routes": {
+               "@nil": "true"
+            },
+            "Scenario_ID": "28",
+            "Scenario_Name": "OffTest"
+         },
+         "Scenario_ID": "28",
+         "TGPS_Weight": "1",
+         "TGTS_Weight": "10",
+         "TPPS_Weight": "1",
+         "TPTS_Weight": "1"
+      },
+      {
+         "Attempts": {
+            "AttemptVM": {
+               "Attempt_ID": "28",
+               "Date_Created": "2019-10-21T20:57:43.24",
+               "Event": {
+                  "@nil": "true"
+               },
+               "Event_ID": "26",
+               "Maneuver_ID": {
+                  "@nil": "true"
+               },
+               "Score_P3D": {
+                  "@nil": "true"
+               },
+               "Score_Viper": {
+                  "@nil": "true"
+               },
+               "TPScores": {
+                  "@nil": "true"
+               },
+               "TimeOnTarget": "2019-10-21T00:00:00",
+               "User_ID": "2",
+               "Viper_Maneuvers": {
+                  "@nil": "true"
+               },
+               "userVM": {
+                  "Attempts": {
+                     "@nil": "true"
+                  },
+                  "Callsign": "SEANTAY",
+                  "Password": {
+                     "@nil": "true"
+                  },
+                  "Problems": {
+                     "@nil": "true"
+                  },
+                  "Proficiencies": {
+                     "@nil": "true"
+                  },
+                  "Role": {
+                     "@nil": "true"
+                  },
+                  "Role_ID": "1",
+                  "User_ID": "2"
+               }
+            }
+         },
+         "Event_ID": "26",
+         "Event_Name": "BS",
+         "IPPS_Weight": "2",
+         "IPTS_Weight": "1",
+         "Scenario": {
+            "Events": {
+               "@nil": "true"
+            },
+            "Parsed_Routes": {
+               "@nil": "true"
+            },
+            "Scenario_ID": "29",
+            "Scenario_Name": "BS"
+         },
+         "Scenario_ID": "29",
+         "TGPS_Weight": "1",
+         "TGTS_Weight": "10",
+         "TPPS_Weight": "1",
+         "TPTS_Weight": "1"
+      },
+      {
+         "Attempts": {
+            "AttemptVM": {
+               "Attempt_ID": "29",
+               "Date_Created": "2019-10-21T21:22:46.957",
+               "Event": {
+                  "@nil": "true"
+               },
+               "Event_ID": "27",
+               "Maneuver_ID": {
+                  "@nil": "true"
+               },
+               "Score_P3D": {
+                  "@nil": "true"
+               },
+               "Score_Viper": {
+                  "@nil": "true"
+               },
+               "TPScores": {
+                  "@nil": "true"
+               },
+               "TimeOnTarget": "2019-10-21T00:00:00",
+               "User_ID": "2",
+               "Viper_Maneuvers": {
+                  "@nil": "true"
+               },
+               "userVM": {
+                  "Attempts": {
+                     "@nil": "true"
+                  },
+                  "Callsign": "SEANTAY",
+                  "Password": {
+                     "@nil": "true"
+                  },
+                  "Problems": {
+                     "@nil": "true"
+                  },
+                  "Proficiencies": {
+                     "@nil": "true"
+                  },
+                  "Role": {
+                     "@nil": "true"
+                  },
+                  "Role_ID": "1",
+                  "User_ID": "2"
+               }
+            }
+         },
+         "Event_ID": "27",
+         "Event_Name": "SR290",
+         "IPPS_Weight": "2",
+         "IPTS_Weight": "1",
+         "Scenario": {
+            "Events": {
+               "@nil": "true"
+            },
+            "Parsed_Routes": {
+               "@nil": "true"
+            },
+            "Scenario_ID": "30",
+            "Scenario_Name": "SR290"
+         },
+         "Scenario_ID": "30",
+         "TGPS_Weight": "1",
+         "TGTS_Weight": "10",
+         "TPPS_Weight": "1",
+         "TPTS_Weight": "1"
+      },
+      {
+         "Attempts": {
+            "AttemptVM": {
+               "Attempt_ID": "30",
+               "Date_Created": "2019-10-21T21:35:03.333",
+               "Event": {
+                  "@nil": "true"
+               },
+               "Event_ID": "28",
+               "Maneuver_ID": {
+                  "@nil": "true"
+               },
+               "Score_P3D": {
+                  "@nil": "true"
+               },
+               "Score_Viper": {
+                  "@nil": "true"
+               },
+               "TPScores": {
+                  "@nil": "true"
+               },
+               "TimeOnTarget": "2019-10-21T00:00:00",
+               "User_ID": "2",
+               "Viper_Maneuvers": {
+                  "@nil": "true"
+               },
+               "userVM": {
+                  "Attempts": {
+                     "@nil": "true"
+                  },
+                  "Callsign": "SEANTAY",
+                  "Password": {
+                     "@nil": "true"
+                  },
+                  "Problems": {
+                     "@nil": "true"
+                  },
+                  "Proficiencies": {
+                     "@nil": "true"
+                  },
+                  "Role": {
+                     "@nil": "true"
+                  },
+                  "Role_ID": "1",
+                  "User_ID": "2"
+               }
+            }
+         },
+         "Event_ID": "28",
+         "Event_Name": "MoarBS",
+         "IPPS_Weight": "2",
+         "IPTS_Weight": "1",
+         "Scenario": {
+            "Events": {
+               "@nil": "true"
+            },
+            "Parsed_Routes": {
+               "@nil": "true"
+            },
+            "Scenario_ID": "31",
+            "Scenario_Name": "MoarBS"
+         },
+         "Scenario_ID": "31",
+         "TGPS_Weight": "1",
+         "TGTS_Weight": "10",
+         "TPPS_Weight": "1",
+         "TPTS_Weight": "1"
+      },
+      {
+         "Attempts": {
+            "AttemptVM": {
+               "Attempt_ID": "31",
+               "Date_Created": "2019-10-21T21:36:22.08",
+               "Event": {
+                  "@nil": "true"
+               },
+               "Event_ID": "29",
+               "Maneuver_ID": {
+                  "@nil": "true"
+               },
+               "Score_P3D": {
+                  "@nil": "true"
+               },
+               "Score_Viper": {
+                  "@nil": "true"
+               },
+               "TPScores": {
+                  "@nil": "true"
+               },
+               "TimeOnTarget": "2019-10-21T00:00:00",
+               "User_ID": "2",
+               "Viper_Maneuvers": {
+                  "@nil": "true"
+               },
+               "userVM": {
+                  "Attempts": {
+                     "@nil": "true"
+                  },
+                  "Callsign": "SEANTAY",
+                  "Password": {
+                     "@nil": "true"
+                  },
+                  "Problems": {
+                     "@nil": "true"
+                  },
+                  "Proficiencies": {
+                     "@nil": "true"
+                  },
+                  "Role": {
+                     "@nil": "true"
+                  },
+                  "Role_ID": "1",
+                  "User_ID": "2"
+               }
+            }
+         },
+         "Event_ID": "29",
+         "Event_Name": "SR290_1",
+         "IPPS_Weight": "2",
+         "IPTS_Weight": "1",
+         "Scenario": {
+            "Events": {
+               "@nil": "true"
+            },
+            "Parsed_Routes": {
+               "@nil": "true"
+            },
+            "Scenario_ID": "32",
+            "Scenario_Name": "SR290_1"
+         },
+         "Scenario_ID": "32",
+         "TGPS_Weight": "1",
+         "TGTS_Weight": "10",
+         "TPPS_Weight": "1",
+         "TPTS_Weight": "1"
+      },
+      {
+         "Attempts": {
+            "AttemptVM": [
+               {
+                  "Attempt_ID": "32",
+                  "Date_Created": "2019-10-23T15:01:03.073",
+                  "Event": {
+                     "@nil": "true"
+                  },
+                  "Event_ID": "30",
+                  "Maneuver_ID": {
+                     "@nil": "true"
+                  },
+                  "Score_P3D": {
+                     "@nil": "true"
+                  },
+                  "Score_Viper": {
+                     "@nil": "true"
+                  },
+                  "TPScores": {
+                     "@nil": "true"
+                  },
+                  "TimeOnTarget": "2019-10-23T15:15:00",
+                  "User_ID": "1",
+                  "Viper_Maneuvers": {
+                     "@nil": "true"
+                  },
+                  "userVM": {
+                     "Attempts": {
+                        "@nil": "true"
+                     },
+                     "Callsign": "ELMO",
+                     "Password": {
+                        "@nil": "true"
+                     },
+                     "Problems": {
+                        "@nil": "true"
+                     },
+                     "Proficiencies": {
+                        "@nil": "true"
+                     },
+                     "Role": {
+                        "@nil": "true"
+                     },
+                     "Role_ID": "1",
+                     "User_ID": "1"
+                  }
+               },
+               {
+                  "Attempt_ID": "33",
+                  "Date_Created": "2019-10-23T15:02:17.857",
+                  "Event": {
+                     "@nil": "true"
+                  },
+                  "Event_ID": "30",
+                  "Maneuver_ID": {
+                     "@nil": "true"
+                  },
+                  "Score_P3D": {
+                     "@nil": "true"
+                  },
+                  "Score_Viper": {
+                     "@nil": "true"
+                  },
+                  "TPScores": {
+                     "@nil": "true"
+                  },
+                  "TimeOnTarget": "2019-10-23T15:17:00",
+                  "User_ID": "1",
+                  "Viper_Maneuvers": {
+                     "@nil": "true"
+                  },
+                  "userVM": {
+                     "Attempts": {
+                        "@nil": "true"
+                     },
+                     "Callsign": "ELMO",
+                     "Password": {
+                        "@nil": "true"
+                     },
+                     "Problems": {
+                        "@nil": "true"
+                     },
+                     "Proficiencies": {
+                        "@nil": "true"
+                     },
+                     "Role": {
+                        "@nil": "true"
+                     },
+                     "Role_ID": "1",
+                     "User_ID": "1"
+                  }
+               },
+               {
+                  "Attempt_ID": "34",
+                  "Date_Created": "2019-10-23T20:17:36.973",
+                  "Event": {
+                     "@nil": "true"
+                  },
+                  "Event_ID": "30",
+                  "Maneuver_ID": {
+                     "@nil": "true"
+                  },
+                  "Score_P3D": {
+                     "@nil": "true"
+                  },
+                  "Score_Viper": {
+                     "@nil": "true"
+                  },
+                  "TPScores": {
+                     "@nil": "true"
+                  },
+                  "TimeOnTarget": "2019-10-23T20:30:00",
+                  "User_ID": "2",
+                  "Viper_Maneuvers": {
+                     "@nil": "true"
+                  },
+                  "userVM": {
+                     "Attempts": {
+                        "@nil": "true"
+                     },
+                     "Callsign": "SEANTAY",
+                     "Password": {
+                        "@nil": "true"
+                     },
+                     "Problems": {
+                        "@nil": "true"
+                     },
+                     "Proficiencies": {
+                        "@nil": "true"
+                     },
+                     "Role": {
+                        "@nil": "true"
+                     },
+                     "Role_ID": "1",
+                     "User_ID": "2"
+                  }
+               },
+               {
+                  "Attempt_ID": "36",
+                  "Date_Created": "2019-10-24T17:25:29.753",
+                  "Event": {
+                     "@nil": "true"
+                  },
+                  "Event_ID": "30",
+                  "Maneuver_ID": {
+                     "@nil": "true"
+                  },
+                  "Score_P3D": {
+                     "@nil": "true"
+                  },
+                  "Score_Viper": {
+                     "@nil": "true"
+                  },
+                  "TPScores": {
+                     "@nil": "true"
+                  },
+                  "TimeOnTarget": "2019-10-24T00:00:00",
+                  "User_ID": "1",
+                  "Viper_Maneuvers": {
+                     "@nil": "true"
+                  },
+                  "userVM": {
+                     "Attempts": {
+                        "@nil": "true"
+                     },
+                     "Callsign": "ELMO",
+                     "Password": {
+                        "@nil": "true"
+                     },
+                     "Problems": {
+                        "@nil": "true"
+                     },
+                     "Proficiencies": {
+                        "@nil": "true"
+                     },
+                     "Role": {
+                        "@nil": "true"
+                     },
+                     "Role_ID": "1",
+                     "User_ID": "1"
+                  }
+               },
+               {
+                  "Attempt_ID": "37",
+                  "Date_Created": "2019-10-24T17:27:44.41",
+                  "Event": {
+                     "@nil": "true"
+                  },
+                  "Event_ID": "30",
+                  "Maneuver_ID": {
+                     "@nil": "true"
+                  },
+                  "Score_P3D": {
+                     "@nil": "true"
+                  },
+                  "Score_Viper": {
+                     "@nil": "true"
+                  },
+                  "TPScores": {
+                     "@nil": "true"
+                  },
+                  "TimeOnTarget": "2019-10-24T00:00:00",
+                  "User_ID": "1",
+                  "Viper_Maneuvers": {
+                     "@nil": "true"
+                  },
+                  "userVM": {
+                     "Attempts": {
+                        "@nil": "true"
+                     },
+                     "Callsign": "ELMO",
+                     "Password": {
+                        "@nil": "true"
+                     },
+                     "Problems": {
+                        "@nil": "true"
+                     },
+                     "Proficiencies": {
+                        "@nil": "true"
+                     },
+                     "Role": {
+                        "@nil": "true"
+                     },
+                     "Role_ID": "1",
+                     "User_ID": "1"
+                  }
+               },
+               {
+                  "Attempt_ID": "38",
+                  "Date_Created": "2019-10-24T17:32:20.38",
+                  "Event": {
+                     "@nil": "true"
+                  },
+                  "Event_ID": "30",
+                  "Maneuver_ID": {
+                     "@nil": "true"
+                  },
+                  "Score_P3D": {
+                     "@nil": "true"
+                  },
+                  "Score_Viper": {
+                     "@nil": "true"
+                  },
+                  "TPScores": {
+                     "@nil": "true"
+                  },
+                  "TimeOnTarget": "2019-10-24T00:00:00",
+                  "User_ID": "1",
+                  "Viper_Maneuvers": {
+                     "@nil": "true"
+                  },
+                  "userVM": {
+                     "Attempts": {
+                        "@nil": "true"
+                     },
+                     "Callsign": "ELMO",
+                     "Password": {
+                        "@nil": "true"
+                     },
+                     "Problems": {
+                        "@nil": "true"
+                     },
+                     "Proficiencies": {
+                        "@nil": "true"
+                     },
+                     "Role": {
+                        "@nil": "true"
+                     },
+                     "Role_ID": "1",
+                     "User_ID": "1"
+                  }
+               }
+            ]
+         },
+         "Event_ID": "30",
+         "Event_Name": "TEST123",
+         "IPPS_Weight": "2",
+         "IPTS_Weight": "1",
+         "Scenario": {
+            "Events": {
+               "@nil": "true"
+            },
+            "Parsed_Routes": {
+               "@nil": "true"
+            },
+            "Scenario_ID": "33",
+            "Scenario_Name": "TEST123"
+         },
+         "Scenario_ID": "33",
+         "TGPS_Weight": "1",
+         "TGTS_Weight": "10",
+         "TPPS_Weight": "1",
+         "TPTS_Weight": "1"
+      },
+      {
+         "Attempts": {
+            "AttemptVM": {
+               "Attempt_ID": "35",
+               "Date_Created": "2019-10-24T15:32:41.917",
+               "Event": {
+                  "@nil": "true"
+               },
+               "Event_ID": "31",
+               "Maneuver_ID": {
+                  "@nil": "true"
+               },
+               "Score_P3D": {
+                  "@nil": "true"
+               },
+               "Score_Viper": {
+                  "@nil": "true"
+               },
+               "TPScores": {
+                  "@nil": "true"
+               },
+               "TimeOnTarget": "2019-10-24T15:48:00",
+               "User_ID": "1",
+               "Viper_Maneuvers": {
+                  "@nil": "true"
+               },
+               "userVM": {
+                  "Attempts": {
+                     "@nil": "true"
+                  },
+                  "Callsign": "ELMO",
+                  "Password": {
+                     "@nil": "true"
+                  },
+                  "Problems": {
+                     "@nil": "true"
+                  },
+                  "Proficiencies": {
+                     "@nil": "true"
+                  },
+                  "Role": {
+                     "@nil": "true"
+                  },
+                  "Role_ID": "1",
+                  "User_ID": "1"
+               }
+            }
+         },
+         "Event_ID": "31",
+         "Event_Name": "30PointTest",
+         "IPPS_Weight": "2",
+         "IPTS_Weight": "1",
+         "Scenario": {
+            "Events": {
+               "@nil": "true"
+            },
+            "Parsed_Routes": {
+               "@nil": "true"
+            },
+            "Scenario_ID": "34",
+            "Scenario_Name": "30PointTest"
+         },
+         "Scenario_ID": "34",
+         "TGPS_Weight": "1",
+         "TGTS_Weight": "10",
+         "TPPS_Weight": "1",
+         "TPTS_Weight": "1"
+      },
+      {
+         "Attempts": {
+            "AttemptVM": [
+               {
+                  "Attempt_ID": "39",
+                  "Date_Created": "2019-10-24T20:15:26.057",
+                  "Event": {
+                     "@nil": "true"
+                  },
+                  "Event_ID": "32",
+                  "Maneuver_ID": {
+                     "@nil": "true"
+                  },
+                  "Score_P3D": {
+                     "@nil": "true"
+                  },
+                  "Score_Viper": {
+                     "@nil": "true"
+                  },
+                  "TPScores": {
+                     "@nil": "true"
+                  },
+                  "TimeOnTarget": "2019-10-24T00:00:00",
+                  "User_ID": "1",
+                  "Viper_Maneuvers": {
+                     "@nil": "true"
+                  },
+                  "userVM": {
+                     "Attempts": {
+                        "@nil": "true"
+                     },
+                     "Callsign": "ELMO",
+                     "Password": {
+                        "@nil": "true"
+                     },
+                     "Problems": {
+                        "@nil": "true"
+                     },
+                     "Proficiencies": {
+                        "@nil": "true"
+                     },
+                     "Role": {
+                        "@nil": "true"
+                     },
+                     "Role_ID": "1",
+                     "User_ID": "1"
+                  }
+               },
+               {
+                  "Attempt_ID": "40",
+                  "Date_Created": "2019-10-24T20:35:37.197",
+                  "Event": {
+                     "@nil": "true"
+                  },
+                  "Event_ID": "32",
+                  "Maneuver_ID": {
+                     "@nil": "true"
+                  },
+                  "Score_P3D": {
+                     "@nil": "true"
+                  },
+                  "Score_Viper": {
+                     "@nil": "true"
+                  },
+                  "TPScores": {
+                     "@nil": "true"
+                  },
+                  "TimeOnTarget": "2019-10-24T00:00:00",
+                  "User_ID": "1",
+                  "Viper_Maneuvers": {
+                     "@nil": "true"
+                  },
+                  "userVM": {
+                     "Attempts": {
+                        "@nil": "true"
+                     },
+                     "Callsign": "ELMO",
+                     "Password": {
+                        "@nil": "true"
+                     },
+                     "Problems": {
+                        "@nil": "true"
+                     },
+                     "Proficiencies": {
+                        "@nil": "true"
+                     },
+                     "Role": {
+                        "@nil": "true"
+                     },
+                     "Role_ID": "1",
+                     "User_ID": "1"
+                  }
+               },
+               {
+                  "Attempt_ID": "41",
+                  "Date_Created": "2019-10-24T20:48:23.98",
+                  "Event": {
+                     "@nil": "true"
+                  },
+                  "Event_ID": "32",
+                  "Maneuver_ID": {
+                     "@nil": "true"
+                  },
+                  "Score_P3D": {
+                     "@nil": "true"
+                  },
+                  "Score_Viper": {
+                     "@nil": "true"
+                  },
+                  "TPScores": {
+                     "@nil": "true"
+                  },
+                  "TimeOnTarget": "2019-10-24T21:08:00",
+                  "User_ID": "2",
+                  "Viper_Maneuvers": {
+                     "@nil": "true"
+                  },
+                  "userVM": {
+                     "Attempts": {
+                        "@nil": "true"
+                     },
+                     "Callsign": "SEANTAY",
+                     "Password": {
+                        "@nil": "true"
+                     },
+                     "Problems": {
+                        "@nil": "true"
+                     },
+                     "Proficiencies": {
+                        "@nil": "true"
+                     },
+                     "Role": {
+                        "@nil": "true"
+                     },
+                     "Role_ID": "1",
+                     "User_ID": "2"
+                  }
+               },
+               {
+                  "Attempt_ID": "42",
+                  "Date_Created": "2019-10-24T21:20:12.98",
+                  "Event": {
+                     "@nil": "true"
+                  },
+                  "Event_ID": "32",
+                  "Maneuver_ID": {
+                     "@nil": "true"
+                  },
+                  "Score_P3D": {
+                     "@nil": "true"
+                  },
+                  "Score_Viper": {
+                     "@nil": "true"
+                  },
+                  "TPScores": {
+                     "@nil": "true"
+                  },
+                  "TimeOnTarget": "2019-10-24T00:00:00",
+                  "User_ID": "1",
+                  "Viper_Maneuvers": {
+                     "@nil": "true"
+                  },
+                  "userVM": {
+                     "Attempts": {
+                        "@nil": "true"
+                     },
+                     "Callsign": "ELMO",
+                     "Password": {
+                        "@nil": "true"
+                     },
+                     "Problems": {
+                        "@nil": "true"
+                     },
+                     "Proficiencies": {
+                        "@nil": "true"
+                     },
+                     "Role": {
+                        "@nil": "true"
+                     },
+                     "Role_ID": "1",
+                     "User_ID": "1"
+                  }
+               },
+               {
+                  "Attempt_ID": "43",
+                  "Date_Created": "2019-10-24T21:34:10.993",
+                  "Event": {
+                     "@nil": "true"
+                  },
+                  "Event_ID": "32",
+                  "Maneuver_ID": {
+                     "@nil": "true"
+                  },
+                  "Score_P3D": {
+                     "@nil": "true"
+                  },
+                  "Score_Viper": {
+                     "@nil": "true"
+                  },
+                  "TPScores": {
+                     "@nil": "true"
+                  },
+                  "TimeOnTarget": "2019-10-24T00:00:00",
+                  "User_ID": "1",
+                  "Viper_Maneuvers": {
+                     "@nil": "true"
+                  },
+                  "userVM": {
+                     "Attempts": {
+                        "@nil": "true"
+                     },
+                     "Callsign": "ELMO",
+                     "Password": {
+                        "@nil": "true"
+                     },
+                     "Problems": {
+                        "@nil": "true"
+                     },
+                     "Proficiencies": {
+                        "@nil": "true"
+                     },
+                     "Role": {
+                        "@nil": "true"
+                     },
+                     "Role_ID": "1",
+                     "User_ID": "1"
+                  }
+               },
+               {
+                  "Attempt_ID": "44",
+                  "Date_Created": "2019-10-24T21:35:47.44",
+                  "Event": {
+                     "@nil": "true"
+                  },
+                  "Event_ID": "32",
+                  "Maneuver_ID": {
+                     "@nil": "true"
+                  },
+                  "Score_P3D": {
+                     "@nil": "true"
+                  },
+                  "Score_Viper": {
+                     "@nil": "true"
+                  },
+                  "TPScores": {
+                     "@nil": "true"
+                  },
+                  "TimeOnTarget": "2019-10-24T00:00:00",
+                  "User_ID": "1",
+                  "Viper_Maneuvers": {
+                     "@nil": "true"
+                  },
+                  "userVM": {
+                     "Attempts": {
+                        "@nil": "true"
+                     },
+                     "Callsign": "ELMO",
+                     "Password": {
+                        "@nil": "true"
+                     },
+                     "Problems": {
+                        "@nil": "true"
+                     },
+                     "Proficiencies": {
+                        "@nil": "true"
+                     },
+                     "Role": {
+                        "@nil": "true"
+                     },
+                     "Role_ID": "1",
+                     "User_ID": "1"
+                  }
+               },
+               {
+                  "Attempt_ID": "45",
+                  "Date_Created": "2019-10-24T21:38:09.67",
+                  "Event": {
+                     "@nil": "true"
+                  },
+                  "Event_ID": "32",
+                  "Maneuver_ID": {
+                     "@nil": "true"
+                  },
+                  "Score_P3D": {
+                     "@nil": "true"
+                  },
+                  "Score_Viper": {
+                     "@nil": "true"
+                  },
+                  "TPScores": {
+                     "@nil": "true"
+                  },
+                  "TimeOnTarget": "2019-10-24T00:00:00",
+                  "User_ID": "1",
+                  "Viper_Maneuvers": {
+                     "@nil": "true"
+                  },
+                  "userVM": {
+                     "Attempts": {
+                        "@nil": "true"
+                     },
+                     "Callsign": "ELMO",
+                     "Password": {
+                        "@nil": "true"
+                     },
+                     "Problems": {
+                        "@nil": "true"
+                     },
+                     "Proficiencies": {
+                        "@nil": "true"
+                     },
+                     "Role": {
+                        "@nil": "true"
+                     },
+                     "Role_ID": "1",
+                     "User_ID": "1"
+                  }
+               },
+               {
+                  "Attempt_ID": "46",
+                  "Date_Created": "2019-10-24T21:42:41.99",
+                  "Event": {
+                     "@nil": "true"
+                  },
+                  "Event_ID": "32",
+                  "Maneuver_ID": {
+                     "@nil": "true"
+                  },
+                  "Score_P3D": {
+                     "@nil": "true"
+                  },
+                  "Score_Viper": {
+                     "@nil": "true"
+                  },
+                  "TPScores": {
+                     "@nil": "true"
+                  },
+                  "TimeOnTarget": "2019-10-24T00:00:00",
+                  "User_ID": "1",
+                  "Viper_Maneuvers": {
+                     "@nil": "true"
+                  },
+                  "userVM": {
+                     "Attempts": {
+                        "@nil": "true"
+                     },
+                     "Callsign": "ELMO",
+                     "Password": {
+                        "@nil": "true"
+                     },
+                     "Problems": {
+                        "@nil": "true"
+                     },
+                     "Proficiencies": {
+                        "@nil": "true"
+                     },
+                     "Role": {
+                        "@nil": "true"
+                     },
+                     "Role_ID": "1",
+                     "User_ID": "1"
+                  }
+               },
+               {
+                  "Attempt_ID": "47",
+                  "Date_Created": "2019-10-24T21:43:41.68",
+                  "Event": {
+                     "@nil": "true"
+                  },
+                  "Event_ID": "32",
+                  "Maneuver_ID": {
+                     "@nil": "true"
+                  },
+                  "Score_P3D": {
+                     "@nil": "true"
+                  },
+                  "Score_Viper": {
+                     "@nil": "true"
+                  },
+                  "TPScores": {
+                     "@nil": "true"
+                  },
+                  "TimeOnTarget": "2019-10-24T00:00:00",
+                  "User_ID": "1",
+                  "Viper_Maneuvers": {
+                     "@nil": "true"
+                  },
+                  "userVM": {
+                     "Attempts": {
+                        "@nil": "true"
+                     },
+                     "Callsign": "ELMO",
+                     "Password": {
+                        "@nil": "true"
+                     },
+                     "Problems": {
+                        "@nil": "true"
+                     },
+                     "Proficiencies": {
+                        "@nil": "true"
+                     },
+                     "Role": {
+                        "@nil": "true"
+                     },
+                     "Role_ID": "1",
+                     "User_ID": "1"
+                  }
+               }
+            ]
+         },
+         "Event_ID": "32",
+         "Event_Name": "MapTest2",
+         "IPPS_Weight": "2",
+         "IPTS_Weight": "1",
+         "Scenario": {
+            "Events": {
+               "@nil": "true"
+            },
+            "Parsed_Routes": {
+               "@nil": "true"
+            },
+            "Scenario_ID": "36",
+            "Scenario_Name": "MapTest2"
+         },
+         "Scenario_ID": "36",
+         "TGPS_Weight": "1",
+         "TGTS_Weight": "10",
+         "TPPS_Weight": "1",
+         "TPTS_Weight": "1"
+      }
+   ]
+}
